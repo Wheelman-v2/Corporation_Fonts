@@ -1,0 +1,170 @@
+@font-face {
+    font-family: 'BC_cardL'; /* BC카드L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/BC_cardL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BC_cardB'; /* BC카드B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/BC_cardB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'payboocLight'; /* 페이북Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'payboocMedium'; /* 페이북Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocMedium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'payboocBold'; /* 페이북Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'payboocExtraBold'; /* 페이북ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DWImpactamin'; /* DW임팩타민체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DWImpactamin/DWImpactamin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBSJSK_Light'; /* EBS주시경L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBSJSK_Medium'; /* EBS주시경M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBSJSK_Bold'; /* EBS주시경B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBS_Hunminjeongeum_L'; /* EBS훈민정음L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_Hunminjeongeum_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBS_Hunminjeongeum_R'; /* EBS훈민정음R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_Hunminjeongeum_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBS_Hunminjeongeum_SB'; /* EBS훈민정음SB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_Hunminjeongeum_SB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBS_HMJE_Saeron_L'; /* EBS훈민정음새론L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_HMJE_Saeron_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBS_HMJE_Saeron_R'; /* EBS훈민정음새론R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_HMJE_Saeron_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EBS_HMJE_Saeron_SB'; /* EBS훈민정음새론SB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_HMJE_Saeron_SB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gmarket_Sans_Light'; /* G마켓 산스 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gmarket_Sans/Gmarket_Sans_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gmarket_Sans_Medium'; /* G마켓 산스 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gmarket_Sans/Gmarket_Sans_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gmarket_Sans_Bold'; /* G마켓 산스 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gmarket_Sans/Gmarket_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GodoM'; /* 고도체 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Godo/GodoM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GodoB'; /* 고도체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Godo/GodoB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZgo_L'; /* KBIZ한마음고딕 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZgo_R'; /* KBIZ한마음고딕 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZgo_M'; /* KBIZ한마음고딕 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZgo_B'; /* KBIZ한마음고딕 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZgo_H'; /* KBIZ한마음고딕 H */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_H.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZmjo_L'; /* KBIZ한마음명조 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZmjo_R'; /* KBIZ한마음명조 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZmjo_M'; /* KBIZ한마음명조 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBIZmjo_B'; /* KBIZ한마음명조 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBO_Dia_Gothic_Light'; /* KBO 다이아고딕_light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBO/KBO_Dia_Gothic_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBO_Dia_Gothic_Medium'; /* KBO 다이아고딕_medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBO/KBO_Dia_Gothic_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBO_Dia_Gothic_Bold'; /* KBO 다이아고딕_bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBO/KBO_Dia_Gothic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KITA'; /* 한국무역협회-KITA */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KITA/KITA.woff2') format('woff2');
+}
+
