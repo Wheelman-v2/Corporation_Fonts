@@ -1,7 +1,7 @@
     function redirectToLink(linkType) {
       var baseUrl = 'https://github.com/Wheelman-v2/Corporation_institution_Fonts/raw/main';
       var specificPaths = {
-        'DWDWImpactamin': 'DWImpactamin/DWImpactamin.zip',
+        'DWImpactamin': 'DWImpactamin/DWImpactamin.zip',
         // 'font2': 'AnotherFolder/another_font.zip',
         // Add more link types as needed
       };
