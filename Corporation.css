@@ -104,6 +104,11 @@
 }
 
 @font-face {
+    font-family: 'godoMaum'; /* 고도마음체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Godo/godoMaum.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'KBIZgo_L'; /* KBIZ한마음고딕 L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_L.woff2') format('woff2');
 }
