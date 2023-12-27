@@ -1,170 +1,170 @@
 @font-face {
-    font-family: 'BC_cardL'; /* BCÄ«µåL */
+    font-family: 'BC_cardL'; /* BCì¹´ë“œL */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/BC_cardL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'BC_cardB'; /* BCÄ«µåB */
+    font-family: 'BC_cardB'; /* BCì¹´ë“œB */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/BC_cardB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'payboocLight'; /* ÆäÀÌºÏLight */
+    font-family: 'payboocLight'; /* í˜ì´ë¶Light */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocLight.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'payboocMedium'; /* ÆäÀÌºÏMedium */
+    font-family: 'payboocMedium'; /* í˜ì´ë¶Medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocMedium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'payboocBold'; /* ÆäÀÌºÏBold */
+    font-family: 'payboocBold'; /* í˜ì´ë¶Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocBold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'payboocExtraBold'; /* ÆäÀÌºÏExtraBold */
+    font-family: 'payboocExtraBold'; /* í˜ì´ë¶ExtraBold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/BCCard/payboocExtraBold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DWImpactamin'; /* DWÀÓÆÑÅ¸¹ÎÃ¼ */
+    font-family: 'DWImpactamin'; /* DWì„íŒ©íƒ€ë¯¼ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DWImpactamin/DWImpactamin.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EBSJSK_Light'; /* EBSÁÖ½Ã°æL */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Light.woff2') format('woff2');
+    font-family: 'EBSJSK_Light'; /* EBSì£¼ì‹œê²½L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Light.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'EBSJSK_Medium'; /* EBSÁÖ½Ã°æM */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Medium.woff2') format('woff2');
+    font-family: 'EBSJSK_Medium'; /* EBSì£¼ì‹œê²½M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Medium.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'EBSJSK_Bold'; /* EBSÁÖ½Ã°æB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Bold.woff2') format('woff2');
+    font-family: 'EBSJSK_Bold'; /* EBSì£¼ì‹œê²½B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBSJSK_Bold.woff') format('woff');
 }
 
 @font-face {
-    font-family: 'EBS_Hunminjeongeum_L'; /* EBSÈÆ¹ÎÁ¤À½L */
+    font-family: 'EBS_Hunminjeongeum_L'; /* EBSí›ˆë¯¼ì •ìŒL */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_Hunminjeongeum_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EBS_Hunminjeongeum_R'; /* EBSÈÆ¹ÎÁ¤À½R */
+    font-family: 'EBS_Hunminjeongeum_R'; /* EBSí›ˆë¯¼ì •ìŒR */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_Hunminjeongeum_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EBS_Hunminjeongeum_SB'; /* EBSÈÆ¹ÎÁ¤À½SB */
+    font-family: 'EBS_Hunminjeongeum_SB'; /* EBSí›ˆë¯¼ì •ìŒSB */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_Hunminjeongeum_SB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EBS_HMJE_Saeron_L'; /* EBSÈÆ¹ÎÁ¤À½»õ·ĞL */
+    font-family: 'EBS_HMJE_Saeron_L'; /* EBSí›ˆë¯¼ì •ìŒìƒˆë¡ L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_HMJE_Saeron_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EBS_HMJE_Saeron_R'; /* EBSÈÆ¹ÎÁ¤À½»õ·ĞR */
+    font-family: 'EBS_HMJE_Saeron_R'; /* EBSí›ˆë¯¼ì •ìŒìƒˆë¡ R */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_HMJE_Saeron_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EBS_HMJE_Saeron_SB'; /* EBSÈÆ¹ÎÁ¤À½»õ·ĞSB */
+    font-family: 'EBS_HMJE_Saeron_SB'; /* EBSí›ˆë¯¼ì •ìŒìƒˆë¡ SB */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EBS/EBS_HMJE_Saeron_SB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gmarket_Sans_Light'; /* G¸¶ÄÏ »ê½º Light */
+    font-family: 'Gmarket_Sans_Light'; /* Gë§ˆì¼“ ì‚°ìŠ¤ Light */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gmarket_Sans/Gmarket_Sans_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gmarket_Sans_Medium'; /* G¸¶ÄÏ »ê½º Medium */
+    font-family: 'Gmarket_Sans_Medium'; /* Gë§ˆì¼“ ì‚°ìŠ¤ Medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gmarket_Sans/Gmarket_Sans_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gmarket_Sans_Bold'; /* G¸¶ÄÏ »ê½º Bold */
+    font-family: 'Gmarket_Sans_Bold'; /* Gë§ˆì¼“ ì‚°ìŠ¤ Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gmarket_Sans/Gmarket_Sans_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GodoM'; /* °íµµÃ¼ Medium */
+    font-family: 'GodoM'; /* ê³ ë„ì²´ Medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Godo/GodoM.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GodoB'; /* °íµµÃ¼ Bold */
+    font-family: 'GodoB'; /* ê³ ë„ì²´ Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Godo/GodoB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZgo_L'; /* KBIZÇÑ¸¶À½°íµñ L */
+    font-family: 'KBIZgo_L'; /* KBIZí•œë§ˆìŒê³ ë”• L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZgo_R'; /* KBIZÇÑ¸¶À½°íµñ R */
+    font-family: 'KBIZgo_R'; /* KBIZí•œë§ˆìŒê³ ë”• R */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZgo_M'; /* KBIZÇÑ¸¶À½°íµñ M */
+    font-family: 'KBIZgo_M'; /* KBIZí•œë§ˆìŒê³ ë”• M */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_M.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZgo_B'; /* KBIZÇÑ¸¶À½°íµñ B */
+    font-family: 'KBIZgo_B'; /* KBIZí•œë§ˆìŒê³ ë”• B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZgo_H'; /* KBIZÇÑ¸¶À½°íµñ H */
+    font-family: 'KBIZgo_H'; /* KBIZí•œë§ˆìŒê³ ë”• H */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZgo_H.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZmjo_L'; /* KBIZÇÑ¸¶À½¸íÁ¶ L */
+    font-family: 'KBIZmjo_L'; /* KBIZí•œë§ˆìŒëª…ì¡° L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZmjo_R'; /* KBIZÇÑ¸¶À½¸íÁ¶ R */
+    font-family: 'KBIZmjo_R'; /* KBIZí•œë§ˆìŒëª…ì¡° R */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZmjo_M'; /* KBIZÇÑ¸¶À½¸íÁ¶ M */
+    font-family: 'KBIZmjo_M'; /* KBIZí•œë§ˆìŒëª…ì¡° M */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_M.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBIZmjo_B'; /* KBIZÇÑ¸¶À½¸íÁ¶ B */
+    font-family: 'KBIZmjo_B'; /* KBIZí•œë§ˆìŒëª…ì¡° B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBIZ/KBIZmjo_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBO_Dia_Gothic_Light'; /* KBO ´ÙÀÌ¾Æ°íµñ_light */
+    font-family: 'KBO_Dia_Gothic_Light'; /* KBO ë‹¤ì´ì•„ê³ ë”•_light */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBO/KBO_Dia_Gothic_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBO_Dia_Gothic_Medium'; /* KBO ´ÙÀÌ¾Æ°íµñ_medium */
+    font-family: 'KBO_Dia_Gothic_Medium'; /* KBO ë‹¤ì´ì•„ê³ ë”•_medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBO/KBO_Dia_Gothic_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KBO_Dia_Gothic_Bold'; /* KBO ´ÙÀÌ¾Æ°íµñ_bold */
+    font-family: 'KBO_Dia_Gothic_Bold'; /* KBO ë‹¤ì´ì•„ê³ ë”•_bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBO/KBO_Dia_Gothic_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KITA'; /* ÇÑ±¹¹«¿ªÇùÈ¸-KITA */
+    font-family: 'KITA'; /* í•œêµ­ë¬´ì—­í˜‘íšŒ-KITA */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KITA/KITA.woff2') format('woff2');
 }
 
