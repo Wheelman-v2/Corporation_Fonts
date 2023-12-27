@@ -3,7 +3,7 @@
       var specificPaths = {
         'DWImpactamin': 'DWImpactamin/DWImpactamin.zip',
         // 'font2': 'AnotherFolder/another_font.zip',
-        // Add more link types as needed
+        // 필요에 따라 링크 추가
       };
 
       var specificPath = specificPaths[linkType];
