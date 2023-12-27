@@ -9,7 +9,7 @@
       var specificPath = specificPaths[linkType];
       if (specificPath) {
         var fullUrl = baseUrl + '/' + specificPath;
-        window.location.href = fullUrl;
+        window.open(fullUrl, '_self');
       } else {
         console.error('잘못된 링크 유형:', linkType);
       }
