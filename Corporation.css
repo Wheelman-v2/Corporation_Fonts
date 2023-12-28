@@ -173,3 +173,59 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KITA/KITA.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'KOFIH_DrLEEJW_L'; /* KOFIH_이종욱-L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOFIH/KOFIH_DrLEEJW_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOFIH_DrLEEJW_B'; /* KOFIH_이종욱-B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOFIH/KOFIH_DrLEEJW_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOHINanum_Light'; /* KOHI나눔_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOHI/KOHINanum_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOHINanum_Bold'; /* KOHI나눔_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOHI/KOHINanum_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOHIBaeum'; /* KOHI배움 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOHI/KOHIBaeum.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoPubDotumLight'; /* KoPub_돋움_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KoPub/KoPubDotumLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoPubDotumMedium'; /* KoPub_돋움_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KoPub/KoPubDotumMedium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoPubDotumBold'; /* KoPub_돋움_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KoPub/KoPubDotumBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoPubBatangLight'; /* KoPub_바탕_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KoPub/KoPubBatangLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoPubBatangMedium'; /* KoPub_바탕_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KoPub/KoPubBatangMedium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoPubBatangBold'; /* KoPub_바탕_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KoPub/KoPubBatangBold.woff2') format('woff2');
+}
+
+
