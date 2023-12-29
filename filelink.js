@@ -2,6 +2,7 @@
       var baseUrl = 'https://github.com/Wheelman-v2/Corporation_Fonts/raw/main';
       var specificPaths = {
         'DWImpactamin': 'DWImpactamin/DWImpactamin.zip',
+        'LH': 'LH/LH.zip',
         // 'font2': 'AnotherFolder/another_font.zip',
         // 필요에 따라 링크 추가
       };
