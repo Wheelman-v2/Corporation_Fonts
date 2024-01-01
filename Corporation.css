@@ -228,4 +228,19 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KoPub/KoPubBatangBold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'LINESeedKR-Th'; /* LINE Seed Th */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LINE_Seed_Sans/LINESeedKR-Th.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LINESeedKR-Rg'; /* LINE Seed Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LINE_Seed_Sans/LINESeedKR-Rg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LINESeedKR-Bd'; /* LINE Seed Bd */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LINE_Seed_Sans/LINESeedKR-Bd.woff2') format('woff2');
+}
+
 
