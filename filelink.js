@@ -3,7 +3,8 @@
       var specificPaths = {
         'DWImpactamin': 'DWImpactamin/DWImpactamin.zip',
         'LH': 'LH/LH.zip',
-        // 'font2': 'AnotherFolder/another_font.zip',
+        'Her-Gilwonok': 'Her/Her-Gilwonok.zip',
+        'Her-Leeoksun': 'Her/Her-Leeoksun.zip',
         // 필요에 따라 링크 추가
       };
 
