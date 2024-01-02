@@ -244,3 +244,253 @@
 }
 
 
+@font-face {
+    font-family: 'MBC_1961_Medium'; /* MBC_1961_M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MBC_1961/MBC_1961_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MBC_1961Gulim_Medium'; /* MBC_1961굴림_M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MBC_1961/MBC_1961Gulim_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MICEGothic'; /* MICE고딕 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MICE/MICEGothic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MICEGothic_Bold'; /* MICE고딕 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MICE/MICEGothic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MICEMyungjo'; /* MICE명조 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MICE/MICEMyungjo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MyLotteLight'; /* MyLotteLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MyLotte/MyLotteLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MyLotteRegular'; /* MyLotteRegular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MyLotte/MyLotteRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MyLotteMedium'; /* MyLotteMedium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MyLotte/MyLotteMedium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MyLotteBold'; /* MyLotteBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MyLotte/MyLotteBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'RixYeoljeongdo'; /* Rix열정도_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Rix/RixYeoljeongdo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'RixYeoljeongdo_Pro'; /* Rix열정도_Pro_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Rix/RixYeoljeongdo_Pro.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'RixInooAriDuri'; /* Rix이누아리두리_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Rix/RixInooAriDuri.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'RixInooAriDuri_Pro'; /* Rix이누아리두리_Pro_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Rix/RixInooAriDuri_Pro.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'RixMomsBlanket'; /* Rix할매의꽃담요R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Rix/RixMomsBlanket.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sandoll_Samliphopangche_Basic'; /* Sandoll_삼립호빵체_Basic */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sandoll_Samlip-Hopang/Sandoll_Samliphopangche_Basic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sandoll_Samliphopangche_Outline'; /* Sandoll_삼립호빵체_Outline */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sandoll_Samlip-Hopang/Sandoll_Samliphopangche_Outline.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sandoll_MiSaeng'; /* Sandoll_미생체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SandollMiSaeng/Sandoll_MiSaeng.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TTTogether'; /* TT투게더 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TTTogether/TTTogether.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'tvN_Enjoystories_Light'; /* tvN_즐거운이야기_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/tvN_Enjoystories/tvN_Enjoystories_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'tvN_Enjoystories_Medium'; /* tvN_즐거운이야기_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/tvN_Enjoystories/tvN_Enjoystories_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'tvN_Enjoystories_Bold'; /* tvN_즐거운이야기_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/tvN_Enjoystories/tvN_Enjoystories_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Y_Spotlight'; /* Y 너만을 비춤체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Spotlight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Y_Universe'; /* Y_유니버스-L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Universe-L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Y_Universe'; /* Y_유니버스-B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Universe-B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yde_street'; /* Y이드스트릿L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Yde_streetL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yde_street'; /* Y이드스트릿B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Yde_streetB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ycomputer'; /* Y콤퓨터 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Ycomputer.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YClover-Regular'; /* Y클로버 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/YClover-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YClover-Bold'; /* Y클로버 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/YClover-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ghanachocolate'; /* 가나초콜릿체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ghanachocolate/Ghanachocolate.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_NapjakBlock'; /* 가비아_납작블록체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_NapjakBlock.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_Maeumgyeol'; /* 가비아_마음결체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Maeumgyeol.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_BomBaram'; /* 가비아_봄바람체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_BomBaram.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_Solmee'; /* 가비아_솔미체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Solmee.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_Ondam'; /* 가비아_온담체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Ondam.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_Cheongyeon'; /* 가비아_청연체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Cheongyeon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_Heuldot'; /* 가비아_흘돋체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Heuldot.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gamja_Flower'; /* 감자꽃-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GamjaFlower/Gamja_Flower.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KNU_TRUTH'; /* 경북대진리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KNU/KNU_TRUTH.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'esamanru_Light'; /* 이사만루체Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/esamanru/esamanru_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'esamanru_Medium'; /* 이사만루체Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/esamanru/esamanru_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'esamanru_Bold'; /* 이사만루체Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/esamanru/esamanru_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kyobo_Handwriting_2019'; /* 교보 손글씨 2019 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2019.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kyobo_Handwriting_2020'; /* 교보 손글씨 2020 박도연 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2020.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kyobo_Handwriting_2021'; /* 교보 손글씨 2021 성지영 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2021.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kyobo_Handwriting_2022'; /* 교보 손글씨 2022 김혜남 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2022.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sandoll_Kukdetopokki_Light'; /* Sandoll 국대떡볶이 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sandoll_Kukdetopokki/Sandoll_Kukdetopokki_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sandoll_Kukdetopokki_Bold'; /* Sandoll 국대떡볶이 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sandoll_Kukdetopokki/Sandoll_Kukdetopokki_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Her-Leeoksun'; /* 그녀_이옥선 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Her/Her-Leeoksun.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Her-Gilwonok'; /* 그녀-길원옥 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Her/Her-Gilwonok.woff2') format('woff2');
+}
+
