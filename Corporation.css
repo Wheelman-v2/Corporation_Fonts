@@ -355,22 +355,22 @@
 }
 
 @font-face {
-    font-family: 'Y_Universe'; /* Y_유니버스-L */
+    font-family: 'Y_Universe-L'; /* Y_유니버스-L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Universe-L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Y_Universe'; /* Y_유니버스-B */
+    font-family: 'Y_Universe-B'; /* Y_유니버스-B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Universe-B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yde_street'; /* Y이드스트릿L */
+    font-family: 'Yde_streetL'; /* Y이드스트릿L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Yde_streetL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yde_street'; /* Y이드스트릿B */
+    font-family: 'Yde_streetB'; /* Y이드스트릿B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Yde_streetB.woff2') format('woff2');
 }
 
