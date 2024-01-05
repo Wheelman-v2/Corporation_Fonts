@@ -494,3 +494,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Her/Her-Gilwonok.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Gilbeot'; /* 길벗체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gilbeot/Gilbeot.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gilbeot_TG'; /* 길벗체_TG */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gilbeot/Gilbeot_TG.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gilbeot_BI'; /* 길벗체_BI */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gilbeot/Gilbeot_BI.woff2') format('woff2');
+}
+
