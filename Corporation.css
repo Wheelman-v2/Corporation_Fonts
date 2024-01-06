@@ -509,3 +509,108 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gilbeot/Gilbeot_BI.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'NEXONLv1GothicLight'; /* 넥슨Lv1고딕Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXONLv1GothicLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXONLv1GothicRegular'; /* 넥슨Lv1고딕Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXONLv1GothicRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXONLv1GothicBold'; /* 넥슨Lv1고딕Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXONLv1GothicBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXON_Lv2_Gothic_Light'; /* 넥슨 Lv2 고딕 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXON_Lv2_Gothic_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXON_Lv2_Gothic_Regular'; /* 넥슨 Lv2 고딕 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXON_Lv2_Gothic_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXON_Lv2_Gothic_Medium'; /* 넥슨 Lv2 고딕 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXON_Lv2_Gothic_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXON_Lv2_Gothic_Bold'; /* 넥슨 Lv2 고딕 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXON_Lv2_Gothic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Maplestory_Light'; /* 메이플스토리 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Maplestory_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Maplestory_Bold'; /* 메이플스토리 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Maplestory_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kartrider_Kor_Medium'; /* 넥슨 카트 고딕 Kor Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Kartrider_Kor_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kartrider_Kor_Bold'; /* 넥슨 카트 고딕 Kor Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Kartrider_Kor_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kartrider_Kor_ExtraBold'; /* 넥슨 카트 고딕 Kor ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Kartrider_Kor_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXON_Football_Gothic_L'; /* 넥슨_풋볼고딕_L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXON_Football_Gothic_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NEXON_Football_Gothic_B'; /* 넥슨_풋볼고딕_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/NEXON_Football_Gothic_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bazzi'; /* 배찌체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Bazzi.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Warhaven_Regular'; /* 워헤이븐_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Warhaven_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Warhaven_Bold'; /* 워헤이븐_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Warhaven_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DNF_Bit_Bit_v2'; /* 던파_비트비트체_v2 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/DNF_Bit_Bit_v2.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DNF_Forged_Blade_Light'; /* 넥슨_던파_연단된_칼날_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/DNF_Forged_Blade_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DNF_Forged_Blade_Medium'; /* 넥슨_던파_연단된_칼날_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/DNF_Forged_Blade_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DNF_Forged_Blade_Bold'; /* 넥슨_던파_연단된_칼날_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/DNF_Forged_Blade_Bold.woff2') format('woff2');
+}
+
