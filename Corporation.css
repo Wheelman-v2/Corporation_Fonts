@@ -638,3 +638,19 @@
     font-family: 'DAEAM_LEE_TAE_JOON'; /* 대암 이태준체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DAEAM_LEE_TAE_JOON/DAEAM_LEE_TAE_JOON.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Deogon_Princess'; /* 덕온공주체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHM/Deogon_Princess.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HangeulNuriR'; /* 한글누리R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHM/HangeulNuriR.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HangeulNuriB'; /* 한글누리B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHM/HangeulNuriB.woff2') format('woff2');
+}
+
