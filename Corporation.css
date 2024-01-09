@@ -633,3 +633,8 @@
     font-family: 'ROH_HOE-CHAN'; /* 노회찬체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ROH_HOE-CHAN/ROH_HOE-CHAN.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'DAEAM_LEE_TAE_JOON'; /* 대암 이태준체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DAEAM_LEE_TAE_JOON/DAEAM_LEE_TAE_JOON.woff2') format('woff2');
+}
