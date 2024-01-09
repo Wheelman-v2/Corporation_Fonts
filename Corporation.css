@@ -629,3 +629,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/netmarble/netmarble_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'ROH_HOE-CHAN'; /* 노회찬체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ROH_HOE-CHAN/ROH_HOE-CHAN.woff2') format('woff2');
+}
