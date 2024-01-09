@@ -614,3 +614,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/DNF_Forged_Blade_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'netmarble_Light'; /* 넷마블L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/netmarble/netmarble_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'netmarble_Medium'; /* 넷마블M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/netmarble/netmarble_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'netmarble_Bold'; /* 넷마블B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/netmarble/netmarble_Bold.woff2') format('woff2');
+}
+
