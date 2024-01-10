@@ -669,3 +669,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ttangsbudaejjigae/Ttangsbudaejjigae_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Ramche'; /* 램체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ramche/Ramche.woff2') format('woff2');
+}
+
