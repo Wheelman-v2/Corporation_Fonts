@@ -654,3 +654,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHM/HangeulNuriB.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Ttangsbudaejjigae_Light'; /* 땅스부대찌개 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ttangsbudaejjigae/Ttangsbudaejjigae_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ttangsbudaejjigae_Medium'; /* 땅스부대찌개 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ttangsbudaejjigae/Ttangsbudaejjigae_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ttangsbudaejjigae_Bold'; /* 땅스부대찌개 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ttangsbudaejjigae/Ttangsbudaejjigae_Bold.woff2') format('woff2');
+}
+
