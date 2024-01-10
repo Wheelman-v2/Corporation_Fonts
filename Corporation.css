@@ -674,3 +674,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ramche/Ramche.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Recipekorea_Medium'; /* Recipekorea 레코체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Recipekorea/Recipekorea_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LOTTERIA_DDAG'; /* 롯데리아 딱붙어체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LOTTERIA/LOTTERIA_DDAG.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LOTTERIA_CHAB'; /* 롯데리아 촵땡겨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LOTTERIA/LOTTERIA_CHAB.woff2') format('woff2');
+}
+
