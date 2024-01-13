@@ -689,3 +689,57 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LOTTERIA/LOTTERIA_CHAB.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'RIDIBatang'; /* 리디바탕체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/RIDIBatang/RIDIBatang.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Mabinogi_Classic'; /* 마비노기옛체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NEXON/Mabinogi_Classic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOMACON'; /* 만화진흥원체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOMACON/KOMACON.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Miwon'; /* 미원체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Miwon/Miwon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BareunDotumL'; /* 바른돋움L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KPA/BareunDotumL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BareunDotumM'; /* 바른돋움M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KPA/BareunDotumM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BareunDotumB'; /* 바른돋움B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KPA/BareunDotumB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BareunBatangL'; /* 바른바탕L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KPA/BareunBatangL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BareunBatangM'; /* 바른바탕M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KPA/BareunBatangM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BareunBatangB'; /* 바른바탕B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KPA/BareunBatangB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Pak_Yong_jun'; /* 박용준 투사회보체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GJ_YMCA/Pak_Yong_jun.woff2') format('woff2');
+}
