@@ -743,3 +743,54 @@
     font-family: 'Pak_Yong_jun'; /* 박용준 투사회보체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GJ_YMCA/Pak_Yong_jun.woff2') format('woff2');
 }
+
+
+@font-face {
+    font-family: 'BMDOHYEON'; /* 배민 도현체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMDOHYEON_v1.0/BMDOHYEON.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMEULJIROTTF'; /* 배민 을지로체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMEULJIRO_v1.0/BMEULJIROTTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMEuljiro10yearslater'; /* 배민 을지로 10년후체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMEuljiro10yearslater_v1.0/BMEuljiro10yearslater.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMEuljirooraeorae'; /* 배민 을지로 오래오래체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMEuljirooraeorae_v1.0/BMEuljirooraeorae.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMHANNAAir'; /* 배민 한나체 Air */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMHANNAAir_v1.0/BMHANNAAir.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMHANNAPro'; /* 배민 한나체 Pro */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMHANNAPro_v1.0/BMHANNAPro.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMHANNA_11yrs'; /* 배민 한나는 11살체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMHANNA_11yrs_v1.0/BMHANNA_11yrs.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMJUA'; /* 배민 주아체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMJUA_v1.1/BMJUA.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMKIRANGHAERANG'; /* 배민 기랑해랑체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMKIRANGHAERANG_v1.0/BMKIRANGHAERANG.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BMYEONSUNG'; /* 배민 연성체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMYEONSUNG_v1.0/BMYEONSUNG.woff2') format('woff2');
+}
