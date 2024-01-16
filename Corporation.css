@@ -793,3 +793,129 @@
     font-family: 'BMYEONSUNG'; /* 배민 연성체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMYEONSUNG_v1.0/BMYEONSUNG.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'omyu_pretty'; /* 오뮤 다예쁨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/omyu_pretty/omyu_pretty.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bookk_Gothic_L'; /* 부크크고딕_얇은글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bookk/Bookk_Gothic_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bookk_Gothic_B'; /* 부크크고딕_굵은글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bookk/Bookk_Gothic_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bookk_Myungjo_L'; /* 부크크명조_얇은글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bookk/Bookk_Myungjo_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bookk_Myungjo_B'; /* 부크크명조_굵은글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bookk/Bookk_Myungjo_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'VITRO_INSPIRE'; /* 비트로 인스파이어 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/VITRO/VITRO_INSPIRE_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'VITRO_CORE'; /* 비트로 코어 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/VITRO/VITRO_CORE_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'VITRO_PRIDE'; /* 비트로 프라이드 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/VITRO/VITRO_PRIDE_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae_Melona_Light'; /* 빙그레 메로나체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Melona_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae_Melona_Bold'; /* 빙그레 메로나체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Melona_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae_Samanco_Light'; /* 빙그레 싸만코체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Samanco_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae_Samanco_Bold'; /* 빙그레 싸만코체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Samanco_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BinggraeⅡ_Light'; /* 빙그레체Ⅱ-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/BinggraeⅡ_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BinggraeⅡ_Bold'; /* 빙그레체Ⅱ-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/BinggraeⅡ_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae_Light'; /* 빙그레체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae_Bold'; /* 빙그레체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SangSangAnt'; /* 상상토끼 개미똥구멍체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangAnt.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SSFaithfulness'; /* 상상토끼 근면성실체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SSFaithfulness.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SangSangFlowerRoad'; /* 상상토끼 꽃길체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangFlowerRoad.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SangSangYoungestDaughter'; /* 상상토끼 꽃집막내딸체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangYoungestDaughter.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SangSangMullaeler'; /* 상상토끼 문래러체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangMullaeler.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SSVeryBadHandwriting'; /* 상상토끼 순악필여사체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SSVeryBadHandwriting.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SangSangShin'; /* 상상토끼 신과장체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangShin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SangSangShinb7'; /* 상상토끼 신비는일곱살체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangShinb7.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SangSangRock'; /* 상상토끼 정묵바위체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangRock.woff2') format('woff2');
+}
+
