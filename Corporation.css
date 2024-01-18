@@ -919,3 +919,84 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SangSangToKKi/SangSangRock.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'SOGANG_UNIVERSITY'; /* 서강체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SOGANG/SOGANG_UNIVERSITY_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SEBANG_Gothic_Regular'; /* 세방고딕_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SEBANG/SEBANG_Gothic_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SEBANG_Gothic_Bold'; /* 세방고딕_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SEBANG/SEBANG_Gothic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sejong_hospital_Light'; /* 세종병원체_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sejong_hospital/Sejong_hospital_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sejong_hospital_Bold'; /* 세종병원체_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sejong_hospital/Sejong_hospital_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KingSejongInstitute_Regular'; /* 세종학당체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KingSejongInstitute/KingSejongInstitute_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KingSejongInstitute_Bold'; /* 세종학당체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KingSejongInstitute/KingSejongInstitute_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NotCliche'; /* 스스로넷 NotCliche체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/NotCliche.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Thorn_Font'; /* 스스로넷 가시가시체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/Thorn_Font.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'naneunya_haeginsa'; /* 스스로넷 나는야 핵인싸체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/naneunya_haeginsa.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'establish_Retrosans'; /* 스스로넷 설립체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/establish_Retrosans.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Room_No.703'; /* 스스로넷 칠백삼체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/Room_No.703.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SSRONET_Gwiyeoumyeondaya'; /* 스스로넷 귀여우면다야체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/SSRONET_Gwiyeoumyeondaya.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SSRONET_Handwritten'; /* 스스로넷 손글씨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/SSRONET_Handwritten.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SSRONET_CityPOP'; /* 스스로넷 시티팝체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/SSRONET_CityPOP.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SSRONET_Onyuwolkkochnamu'; /* 스스로넷 오뉴월꽃나무체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/SSRONET_Onyuwolkkochnamu.woff2') format('woff2');
+}
+
+
