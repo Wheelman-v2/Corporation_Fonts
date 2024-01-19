@@ -1013,3 +1013,8 @@
     font-family: 'SunBatang-Bold'; /* 순바탕-Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SunBatang/SunBatang-Bold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'SDSwagger'; /* 스웨거체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SDSwagger/SDSwaggerTTT.woff2') format('woff2');
+}
