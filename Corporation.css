@@ -999,4 +999,17 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/SSRONET_Onyuwolkkochnamu.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'SunBatang-Light'; /* 순바탕-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SunBatang/SunBatang-Light.woff2') format('woff2');
+}
 
+@font-face {
+    font-family: 'SunBatang-Medium'; /* 순바탕-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SunBatang/SunBatang-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SunBatang-Bold'; /* 순바탕-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SunBatang/SunBatang-Bold.woff2') format('woff2');
+}
