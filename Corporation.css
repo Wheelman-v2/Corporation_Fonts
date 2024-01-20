@@ -391,7 +391,7 @@
 
 @font-face {
     font-family: 'Ghanachocolate'; /* 가나초콜릿체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Ghanachocolate/Ghanachocolate.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LotteWellFood/Ghanachocolate.woff2') format('woff2');
 }
 
 @font-face {
@@ -1017,4 +1017,9 @@
 @font-face {
     font-family: 'Swagger'; /* 스웨거체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SDSwagger/Swagger_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LOTTE_SEOLLEIM_cool'; /* 시원한 설레임-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LotteWellFood/LOTTE_SEOLLEIM_cool.woff2') format('woff2');
 }
