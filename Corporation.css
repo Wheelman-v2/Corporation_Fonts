@@ -1023,3 +1023,103 @@
     font-family: 'LOTTE_SEOLLEIM_cool'; /* 시원한 설레임-SemiBold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LotteWellFood/LOTTE_SEOLLEIM_cool.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Arita-dotum-THIN'; /* 아리따-돋움(TTF)-THIN */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-THIN.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-dotum-LIGHT'; /* 아리따-돋움(TTF)-LIGHT */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-LIGHT.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-dotum-MEDIUM'; /* 아리따-돋움(TTF)-MEDIUM */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-MEDIUM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-dotum-SEMIBOLD'; /* 아리따-돋움(TTF)-SEMIBOLD */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-SEMIBOLD.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-dotum-BOLD'; /* 아리따-돋움(TTF)-BOLD */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-BOLD.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-buri-Light'; /* 아리따-부리L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-buri-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-buri-Medium'; /* 아리따-부리M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-buri-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-buri-SemiBold'; /* 아리따-부리SB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-buri-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Arita-buri-Bold'; /* 아리따-부리B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-buri-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ansungtangmyun-Bold'; /* 안성탕면체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nongshim/Ansungtangmyun-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ansungtangmyun-ESG'; /* 안성탕면체-ESG */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nongshim/Ansungtangmyun-ESG.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Atomy-Light'; /* 애터미-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Atomy/Atomy-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Atomy-Medium'; /* 애터미-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Atomy/Atomy-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Atomy-Bold'; /* 애터미-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Atomy/Atomy-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yanolja_Yache_Regular'; /* 야놀자 야체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yanolja_Yache/Yanolja_Yache_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yanolja_Yache_Bold'; /* 야놀자 야체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yanolja_Yache/Yanolja_Yache_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YANGJIN'; /* 양진체v0.9_ttf */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yangjin/YANGJIN.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SB_Aggro_Light'; /* SB 어그로 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SB_Aggro/SB_Aggro_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SB_Aggro_Medium'; /* SB 어그로 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SB_Aggro/SB_Aggro_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SB_Aggro_Bold'; /* SB 어그로 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SB_Aggro/SB_Aggro_Bold.woff2') format('woff2');
+}
