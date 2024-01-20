@@ -5,6 +5,7 @@
         'LH': 'LH/LH.zip',
         'Her-Gilwonok': 'Her/Her-Gilwonok.zip',
         'Her-Leeoksun': 'Her/Her-Leeoksun.zip',
+        'YanoljaYache': 'Yanolja_Yache/Yanolja_Yache.zip',
         // 필요에 따라 링크 추가
       };
 
