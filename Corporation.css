@@ -1123,3 +1123,85 @@
     font-family: 'SB_Aggro_Bold'; /* SB 어그로 B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SB_Aggro/SB_Aggro_Bold.woff2') format('woff2');
 }
+
+
+@font-face {
+    font-family: 'EF_NULY'; /* 얼리폰트_널리고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_NULY.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_Diary'; /* 얼리폰트_다이어리 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_Diary.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_ladio'; /* 얼리폰트_라디오고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_ladio.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_Rebecca'; /* 얼리폰트_레베카 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_Rebecca.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_MACHO'; /* 얼리폰트_마초체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_MACHO.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_watermelonSalad'; /* 얼리폰트_수박화체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_watermelonSalad.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_AONE'; /* 얼리폰트_에이원 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_AONE.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_cucumbersalad'; /* 얼리폰트_오이냉체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_cucumbersalad.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'wedrive'; /* 얼리폰트_위드라이브체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/wedrive.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_YOONY'; /* 얼리폰트_유니폰트 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_YOONY.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_WAKEUP'; /* 얼리폰트_정신차렷체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_WAKEUP.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_jejudoldam'; /* 얼리폰트_제주돌담 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_jejudoldam.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ef_chuckchuck'; /* 얼리폰트_척척고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/ef_chuckchuck.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_Firenze'; /* 얼리폰트_피렌체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_Firenze.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_hyunygothic'; /* 얼리폰트_혀니고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_hyunygothic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EF_hyunydororong'; /* 얼리폰트_혀니도로롱 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_hyunydororong.woff2') format('woff2');
+}
+
