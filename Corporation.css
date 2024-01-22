@@ -1205,3 +1205,48 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Early_Font/EF_hyunydororong.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'S-Core_Dream_1_Thin'; /* 에스코어 드림 1 Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_1_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_2_ExtraLight'; /* 에스코어 드림 2 Extra Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_2_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_3_Light'; /* 에스코어 드림 3 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_3_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_4_Regular'; /* 에스코어 드림 4 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_4_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_5_Medium'; /* 에스코어 드림 5 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_5_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_6_Bold'; /* 에스코어 드림 6 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_6_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_7_ExtraBold'; /* 에스코어 드림 7 Extra Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_7_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_8_Heavy'; /* 에스코어 드림 8 Heavy */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_8_Heavy.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'S-Core_Dream_9_Black'; /* 에스코어 드림 9 Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_9_Black.woff2') format('woff2');
+}
+
