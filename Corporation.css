@@ -1250,3 +1250,39 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/S-Core_Dream/S-Core_Dream_9_Black.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Elice_DX_Neolli_Light'; /* 엘리스 DX 널리체_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DX_Neolli_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Elice_DX_Neolli_Medium'; /* 엘리스 DX 널리체_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DX_Neolli_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Elice_DX_Neolli_Bold'; /* 엘리스 DX 널리체_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DX_Neolli_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Elice_DigitalBaeum_Regular'; /* 엘리스 디지털 배움체_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DigitalBaeum_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Elice_DigitalBaeum_Bold'; /* 엘리스 디지털 배움체_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DigitalBaeum_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Elice_DigitalCoding_ver.H_Regular'; /* 엘리스 디지털 코딩체_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DigitalCoding_ver.H_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Elice_DigitalCoding_ver.H_Bold'; /* 엘리스 디지털 코딩체_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DigitalCoding_ver.H_Bold.woff2') format('woff2');
+}
+
+
