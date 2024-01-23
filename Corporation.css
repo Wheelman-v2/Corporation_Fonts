@@ -1025,28 +1025,28 @@
 }
 
 @font-face {
-    font-family: 'Arita-dotum-THIN'; /* 아리따-돋움(TTF)-THIN */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-THIN.woff2') format('woff2');
+    font-family: 'Arita-dotum-Thin'; /* 아리따-돋움(TTF)-THIN */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-Thin.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Arita-dotum-LIGHT'; /* 아리따-돋움(TTF)-LIGHT */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-LIGHT.woff2') format('woff2');
+    font-family: 'Arita-dotum-Light'; /* 아리따-돋움(TTF)-LIGHT */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Arita-dotum-MEDIUM'; /* 아리따-돋움(TTF)-MEDIUM */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-MEDIUM.woff2') format('woff2');
+    font-family: 'Arita-dotum-Medium'; /* 아리따-돋움(TTF)-MEDIUM */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Arita-dotum-SEMIBOLD'; /* 아리따-돋움(TTF)-SEMIBOLD */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-SEMIBOLD.woff2') format('woff2');
+    font-family: 'Arita-dotum-Semibold'; /* 아리따-돋움(TTF)-SEMIBOLD */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-Semibold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Arita-dotum-BOLD'; /* 아리따-돋움(TTF)-BOLD */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-BOLD.woff2') format('woff2');
+    font-family: 'Arita-dotum-Bold'; /* 아리따-돋움(TTF)-BOLD */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-Bold.woff2') format('woff2');
 }
 
 @font-face {
