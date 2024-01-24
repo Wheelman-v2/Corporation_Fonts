@@ -1040,8 +1040,8 @@
 }
 
 @font-face {
-    font-family: 'Arita-dotum-Semibold'; /* 아리따-돋움(TTF)-SEMIBOLD */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-Semibold.woff2') format('woff2');
+    font-family: 'Arita-dotum-SemiBold'; /* 아리따-돋움(TTF)-SEMIBOLD */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Amorepacific/Arita-dotum-SemiBold.woff2') format('woff2');
 }
 
 @font-face {
@@ -1123,7 +1123,6 @@
     font-family: 'SB_Aggro_Bold'; /* SB 어그로 B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SB_Aggro/SB_Aggro_Bold.woff2') format('woff2');
 }
-
 
 @font-face {
     font-family: 'EF_NULY'; /* 얼리폰트_널리고딕 */
