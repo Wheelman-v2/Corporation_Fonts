@@ -1284,4 +1284,49 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Elice/Elice_DigitalCoding_ver.H_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Jalnan_2'; /* 여기어때 잘난체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/gccompany/Jalnan_2.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Jalnan_Gothic'; /* 여기어때 잘난체 고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/gccompany/Jalnan_Gothic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YES24'; /* 예스체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/YES24/YES24.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YES_Gothic_R'; /* 예스 고딕 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yes24/YES_Gothic_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YES_Gothic_M'; /* 예스 고딕 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yes24/YES_Gothic_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YES_Gothic_B'; /* 예스 고딕 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yes24/YES_Gothic_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YES_Gothic_EB'; /* 예스 고딕 EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yes24/YES_Gothic_EB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YES_Myoungjo_R'; /* 예스 명조 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yes24/YES_Myoungjo_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YES_Myoungjo_B'; /* 예스 명조 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yes24/YES_Myoungjo_B.woff2') format('woff2');
+}
+
 
