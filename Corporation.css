@@ -1374,3 +1374,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Woorifg/Wooridaum_B.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Wavve_PADO'; /* 웨이브 파도-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Wavve/Wavve_PADO.woff2') format('woff2');
+}
