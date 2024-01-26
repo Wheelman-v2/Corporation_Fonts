@@ -6,6 +6,7 @@
         'Her-Gilwonok': 'Her/Her-Gilwonok.zip',
         'Her-Leeoksun': 'Her/Her-Leeoksun.zip',
         'YanoljaYache': 'Yanolja_Yache/Yanolja_Yache.zip',
+        'UNPEOPLE_Gothic': 'UNPEOPLE/UNPEOPLE_Gothic.zip',
         // 필요에 따라 링크 추가
       };
 
