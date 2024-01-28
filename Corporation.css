@@ -1532,3 +1532,13 @@
     font-family: 'UTOIMAGE'; /* 유토이미지체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Eulyoo1945-Regular'; /* 을유1945체 Regular*/
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Eulyoo1945/Eulyoo1945-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Eulyoo1945-SemiBold'; /* 을유1945체 SemiBold*/
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Eulyoo1945/Eulyoo1945-SemiBold.woff2') format('woff2');
+}
