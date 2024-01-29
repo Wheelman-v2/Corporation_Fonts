@@ -1542,3 +1542,44 @@
     font-family: 'Eulyoo1945-SemiBold'; /* 을유1945체 SemiBold*/
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Eulyoo1945/Eulyoo1945-SemiBold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'OK_DDUNG'; /* 읏맨-엉뚱체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OK/OK_DDUNG.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OK_GUNG'; /* 읏맨-궁서체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OK/OK_GUNG.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OK_MAN'; /* 읏맨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OK/OK_MAN.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ELAND_Nice_Medium'; /* ELAND 나이스 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ELAND/ELAND_Nice_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ELAND_Choice_Light'; /* ELAND 초이스 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ELAND/ELAND_Choice_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ELAND_Choice_Medium'; /* ELAND 초이스 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ELAND/ELAND_Choice_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ELAND_Choice_Bold'; /* ELAND 초이스 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ELAND/ELAND_Choice_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Iropke_Batang'; /* 이롭게 바탕체 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Iropke/Iropke_Batang.woff2') format('woff2');
+}
+
