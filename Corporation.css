@@ -1583,3 +1583,92 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Iropke/Iropke_Batang.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'EASTARJET-DemiLight'; /* 이스타항공체-DemiLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EASTARJET/EASTARJET-DemiLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EASTARJET-Medium'; /* 이스타항공체-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EASTARJET/EASTARJET-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EASTARJET-Heavy'; /* 이스타항공체-Heavy */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EASTARJET/EASTARJET-Heavy.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Giants-Regular'; /* 자이언츠-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Giants/Giants-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Giants-Bold'; /* 자이언츠-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Giants/Giants-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Giants-Inline'; /* 자이언츠-Inline */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Giants/Giants-Inline.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Jalpullineunoneul_Medium'; /* 잘풀리는오늘 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/jjtissue/Jalpullineunoneul_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Jalpullineunharu_Medium'; /* 잘풀리는하루 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/jjtissue/Jalpullineunharu_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chosun_Centennial'; /* 조선100년체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/Chosun_Centennial.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunSg'; /* 조선가는고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunSg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunBg'; /* 조선견고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunBg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunGu'; /* 조선굴림체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunGu.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunKg'; /* 조선굵은고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunKg.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunKm'; /* 조선굵은명조 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunKm.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunGs'; /* 조선궁서체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunGs.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunLo'; /* 조선로고체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunLo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunSm'; /* 조선신명조 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunSm.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChosunilboNM'; /* 조선일보명조 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunilboNM.woff') format('woff');
+}
