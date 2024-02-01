@@ -1723,3 +1723,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CBNU/CBNU_JIKJI.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'CATHOLIC_MEDICAL_CENTER'; /* 가톨릭중앙의료원체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CMC/CATHOLIC_MEDICAL_CENTER.woff2') format('woff2');
+}
