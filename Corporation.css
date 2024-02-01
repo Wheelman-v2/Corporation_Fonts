@@ -1672,3 +1672,54 @@
     font-family: 'ChosunilboNM'; /* 조선일보명조 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Chosun/ChosunilboNM.woff') format('woff');
 }
+
+@font-face {
+    font-family: 'Joongnajoche_Light'; /* 중나좋체 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Joonggonara/Joongnajoche_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Joongnajoche_Medium'; /* 중나좋체 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Joonggonara/Joongnajoche_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'cachildren_kkum'; /* 천안꿈누리터 꿈체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/cachildren/cachildren_kkum.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'cachildren_modu'; /* 천안꿈누리터 모두체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/cachildren/cachildren_modu.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'CJU_Light'; /* 청주대학교-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CJU/CJU_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'CJU_Medium'; /* 청주대학교-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CJU/CJU_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'CJU_Bold'; /* 청주대학교-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CJU/CJU_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chungbuk_National_University_R'; /* 충북대70주년 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CBNU/Chungbuk_National_University_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chungbuk_National_University_B'; /* 충북대70주년 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CBNU/Chungbuk_National_University_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'CBNU_JIKJI'; /* 충북대직지체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CBNU/CBNU_JIKJI.woff2') format('woff2');
+}
+
