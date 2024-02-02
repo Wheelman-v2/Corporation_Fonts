@@ -1727,3 +1727,139 @@
     font-family: 'CATHOLIC_MEDICAL_CENTER'; /* 가톨릭중앙의료원체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CMC/CATHOLIC_MEDICAL_CENTER.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Cafe24_OnePrettyNight'; /* 카페24 고운밤체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_OnePrettyNight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Danjunghae'; /* 카페24 단정해체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Danjunghae.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Dangdanghae'; /* 카페24 당당해체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Dangdanghae.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Dongdong'; /* 카페24 동동체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Dongdong.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Moyamoya'; /* 카페24 모야모야체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Moyamoya.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Moyamoya_Face'; /* 카페24 모야모야 페이스체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Moyamoya_Face.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Shiningstar'; /* 카페24 빛나는별체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Shiningstar.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Syongsyong'; /* 카페24 숑숑체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Syongsyong.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Supermagic_Regular'; /* 카페24 슈퍼매직체 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Supermagic_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Supermagic_Bold'; /* 카페24 슈퍼매직체 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Supermagic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Simplehae'; /* 카페24 심플해체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Simplehae.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Ssurround_Bold'; /* 카페24 써라운드체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Ssurround_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Ssurround_air_Light'; /* 카페24 써라운드 에어체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Ssurround_air_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Ssukssuk'; /* 카페24 쑥쑥체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Ssukssuk.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Ohsquare'; /* 카페24 아네모네체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Ohsquare.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_Ohsquare_air_Light'; /* 카페24 아네모네 에어체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_Ohsquare_air_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24_ClassicType'; /* 카페24 클래식타입체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_ClassicType.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KORAIL'; /* 코레일체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/KORAIL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KORAIL_Condensed'; /* 코레일 장체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/KORAIL_Condensed.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Korail_Round_Gothic_Light'; /* 코레일 둥근고딕_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/Korail_Round_Gothic_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Korail_Round_Gothic_Medium'; /* 코레일 둥근고딕_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/Korail_Round_Gothic_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Korail_Round_Gothic_Bold'; /* 코레일 둥근고딕_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/Korail_Round_Gothic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOTRA_GOTHIC'; /* 코트라 고딕체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOTRA/KOTRA_GOTHIC.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOTRA_BOLD'; /* 코트라 볼드체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOTRA/KOTRA_BOLD.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOTRA_SONGEULSSI'; /* 코트라 손글씨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOTRA/KOTRA_SONGEULSSI.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOTRA_LEAP'; /* 코트라 도약체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOTRA/KOTRA_LEAP.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOTRA_HOPE'; /* 코트라 희망체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KOTRA/KOTRA_HOPE.woff2') format('woff2');
+}
+
