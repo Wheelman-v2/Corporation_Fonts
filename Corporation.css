@@ -2178,3 +2178,113 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Tuho_R.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'HangyeoreGyeolCe'; /* 한겨레 결체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hangyeore/HangyeoreGyeolCe.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'KIMM_Light'; /* 한국기계연구원_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KIMM/KIMM_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KIMM_Bold'; /* 한국기계연구원_bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KIMM/KIMM_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Handon_3gyeopsal_300g'; /* 한돈 삼겹살체 300g */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Handon/Handon_3gyeopsal_300g.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Handon_3gyeopsal_600g'; /* 한돈 삼겹살체 600g */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Handon/Handon_3gyeopsal_600g.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hallym_Gothic_R'; /* 한림고딕체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hallym/Hallym_Gothic_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hallym_Gothic_M'; /* 한림고딕체-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hallym/Hallym_Gothic_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hallym_Gothic_B'; /* 한림고딕체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hallym/Hallym_Gothic_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hallym_Mjo_R'; /* 한림명조체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hallym/Hallym_Mjo_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hallym_Mjo_B'; /* 한림명조체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hallym/Hallym_Mjo_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_MalangMalang_Regular'; /* 한컴 말랑말랑-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_MalangMalang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_MalangMalang_Bold'; /* 한컴 말랑말랑-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_MalangMalang_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_Sans_Light'; /* 한컴 산스-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_Sans_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_Sans_SemiBold'; /* 한컴 산스-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_Sans_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_Ulju_Bangudae_Petroglyph'; /* 한컴 울주 반구대 암각화체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_Ulju_Bangudae_Petroglyph.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_Ulju_Cheonjeonri_Petroglyph'; /* 한컴 울주 천전리 각석체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_Ulju_Cheonjeonri_Petroglyph.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_Hoonminjeongeum_H'; /* 한컴 훈민정음 가로쓰기 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_Hoonminjeongeum_H.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hancom_Hoonminjeongeum_V'; /* 한컴 훈민정음 세로쓰기 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/Hancom_Hoonminjeongeum_V.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HCR_Dotum_R'; /* 함초롬돋움_R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/HCR_Dotum_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HCR_Dotum_B'; /* 함초롬돋움_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/HCR_Dotum_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HCR_Batang_R'; /* 함초롬바탕_R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/HCR_Batang_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HCR_Batang_B'; /* 함초롬바탕_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/HCR_Batang_B.woff2') format('woff2');
+}
+
