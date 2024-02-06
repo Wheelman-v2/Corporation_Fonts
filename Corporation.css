@@ -2288,3 +2288,23 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HANCOM/HCR_Batang_B.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Happiness_Sans_R'; /* 해피니스 산스 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HDDS/Happiness_Sans_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Happiness_Sans_B'; /* 해피니스 산스 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HDDS/Happiness_Sans_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Happiness_Sans_T'; /* 해피니스 산스 Title */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HDDS/Happiness_Sans_T.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Black_And_White_Picture'; /* 흑백사진체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Black_And_White_Picture/Black_And_White_Picture.woff2') format('woff2');
+}
+
