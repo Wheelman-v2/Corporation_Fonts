@@ -2352,3 +2352,8 @@
     font-family: 'Noto_Sans_KR_Black'; /* NotoSansKR-Black (구글폰트) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_Black.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Single_Day'; /* 싱글 데이체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Single_Day/Single_Day.woff2') format('woff2');
+}
