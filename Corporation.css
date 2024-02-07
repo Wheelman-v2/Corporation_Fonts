@@ -2402,3 +2402,88 @@
     font-family: 'Cute_Font'; /* 큐트폰트 (구글폰트) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cute_Font/Cute_Font.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Gothic_A1_Thin'; /* GothicA1-Thin (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_ExtraLight'; /* GothicA1-ExtraLight (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_Light'; /* GothicA1-Light (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_Regular'; /* GothicA1-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_Medium'; /* GothicA1-Medium (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_SemiBold'; /* GothicA1-SemiBold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_Bold'; /* GothicA1-Bold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_ExtraBold'; /* GothicA1-ExtraBold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gothic_A1_Black'; /* GothicA1-Black (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gothic_A1/Gothic_A1_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Song_Myung'; /* 송명체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JIKJI/Song_Myung.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gaegu_Light'; /* 개구체-Light (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JIKJI/Gaegu_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gaegu_Regular'; /* 개구체-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JIKJI/Gaegu_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gaegu_Bold'; /* 개구체-Bold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JIKJI/Gaegu_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sunflower_Light'; /* 해바라기체-Light (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JIKJI/Sunflower_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sunflower_Medium'; /* 해바라기체-Medium (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JIKJI/Sunflower_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sunflower_Bold'; /* 해바라기체-Bold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JIKJI/Sunflower_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Dokdo'; /* 독도체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Dokdo/Dokdo.woff2') format('woff2');
+}
