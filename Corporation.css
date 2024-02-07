@@ -430,7 +430,7 @@
 }
 
 @font-face {
-    font-family: 'Gamja_Flower'; /* 감자꽃-Regular */
+    font-family: 'Gamja_Flower'; /* 감자꽃-Regular (구글폰트) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GamjaFlower/Gamja_Flower.woff2') format('woff2');
 }
 
@@ -2304,7 +2304,51 @@
 }
 
 @font-face {
-    font-family: 'Black_And_White_Picture'; /* 흑백사진체-Regular */
+    font-family: 'Black_And_White_Picture'; /* 흑백사진체-Regular (구글폰트) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Black_And_White_Picture/Black_And_White_Picture.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Noto_Sans_KR_Thin'; /* NotoSansKR-Thin (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR_ExtraLight'; /* NotoSansKR-ExtraLight (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR_Light'; /* NotoSansKR-Light (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR'; /* NotoSansKR-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR_Medium'; /* NotoSansKR-Medium (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR_SemiBold'; /* NotoSansKR-SemiBold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR_Bold'; /* NotoSansKR-Bold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR_ExtraBold'; /* NotoSansKR-ExtraBold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto_Sans_KR_Black'; /* NotoSansKR-Black (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_Black.woff2') format('woff2');
+}
