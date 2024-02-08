@@ -431,7 +431,7 @@
 
 @font-face {
     font-family: 'Gamja_Flower'; /* 감자꽃-Regular (구글폰트) */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GamjaFlower/Gamja_Flower.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Gamja_Flower.woff2') format('woff2');
 }
 
 @font-face {
@@ -2486,4 +2486,54 @@
 @font-face {
     font-family: 'Dokdo'; /* 독도체 (구글폰트) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Dokdo/Dokdo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans_KR_Thin'; /* IBMPlexSansKR-Thin (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IBM_Plex_Sans/IBM_Plex_Sans_KR_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans_KR_ExtraLight'; /* IBMPlexSansKR-ExtraLight (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IBM_Plex_Sans/IBM_Plex_Sans_KR_ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans_KR_Light'; /* IBMPlexSansKR-Light (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IBM_Plex_Sans/IBM_Plex_Sans_KR_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans_KR_Regular'; /* IBMPlexSansKR-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IBM_Plex_Sans/IBM_Plex_Sans_KR_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans_KR_Medium'; /* IBMPlexSansKR-Medium (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IBM_Plex_Sans/IBM_Plex_Sans_KR_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans_KR_SemiBold'; /* IBMPlexSansKR-SemiBold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IBM_Plex_Sans/IBM_Plex_Sans_KR_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans_KR_Bold'; /* IBMPlexSansKR-Bold (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IBM_Plex_Sans/IBM_Plex_Sans_KR_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gugi'; /* 구기체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Tae/Gugi.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'East_Sea_Dokdo'; /* 동해 독도체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/East_Sea_Dokdo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hi_Melody'; /* 하이 멜로디체 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Hi_Melody.woff2') format('woff2');
 }
