@@ -2305,7 +2305,7 @@
 
 @font-face {
     font-family: 'Black_And_White_Picture'; /* 흑백사진체-Regular (구글폰트) */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Black_And_White_Picture/Black_And_White_Picture.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Asia/Black_And_White_Picture.woff2') format('woff2');
 }
 
 @font-face {
@@ -2536,4 +2536,9 @@
 @font-face {
     font-family: 'Hi_Melody'; /* 하이 멜로디체 (구글폰트) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Hi_Melody.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Stylish'; /* 스타일리시 (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Asia/Stylish.woff2') format('woff2');
 }
