@@ -2542,3 +2542,13 @@
     font-family: 'Stylish'; /* 스타일리시 (구글폰트) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Asia/Stylish.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'IM_Hyemin_R'; /* IM혜민-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DGB/IM_Hyemin_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IM_Hyemin_B'; /* IM혜민-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DGB/IM_Hyemin_B.woff2') format('woff2');
+}
