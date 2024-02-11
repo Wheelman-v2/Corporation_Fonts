@@ -2324,8 +2324,8 @@
 }
 
 @font-face {
-    font-family: 'Noto_Sans_KR'; /* NotoSansKR-Regular (구글폰트) */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR.woff2') format('woff2');
+    font-family: 'Noto_Sans_KR_Regular'; /* NotoSansKR-Regular (구글폰트) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NotoSansKR/Noto_Sans_KR_Regular.woff2') format('woff2');
 }
 
 @font-face {
