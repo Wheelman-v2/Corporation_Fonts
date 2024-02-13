@@ -2552,3 +2552,48 @@
     font-family: 'IM_Hyemin_B'; /* IM혜민-Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DGB/IM_Hyemin_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Kim_jung_chul_Gothic_L'; /* 김정철 고딕-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Gothic_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Gothic_R'; /* 김정철 고딕-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Gothic_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Gothic_B'; /* 김정철 고딕-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Gothic_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Myungjo_L'; /* 김정철 명조-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Myungjo_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Myungjo_R'; /* 김정철 명조-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Myungjo_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Myungjo_B'; /* 김정철 명조-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Myungjo_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Script_L'; /* 김정철 손글씨-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Script_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Script_R'; /* 김정철 손글씨-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Script_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kim_jung_chul_Script_B'; /* 김정철 손글씨-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Script_B.woff2') format('woff2');
+}
