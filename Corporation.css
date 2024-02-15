@@ -2597,3 +2597,8 @@
     font-family: 'Kim_jung_chul_Script_B'; /* 김정철 손글씨-Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Junglim/Kim_jung_chul_Script_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'andante'; /* LH 안단테체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LH/andante.woff2') format('woff2');
+}
