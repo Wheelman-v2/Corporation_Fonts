@@ -2622,3 +2622,8 @@
     font-family: 'NU_SKIN_B'; /* 뉴스킨 맑은샘체 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NU_SKIN/NU_SKIN_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'HangultuelGothic'; /* 한글틀고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HangultuelGothic/HangultuelGothic.woff2') format('woff2');
+}
