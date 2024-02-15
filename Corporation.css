@@ -2607,3 +2607,18 @@
     font-family: 'GIsangceong_Dalkomgihuce'; /* 기상청 달콤기후체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KMA/GIsangceong_Dalkomgihuce.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'NU_SKIN_L'; /* 뉴스킨 맑은샘체 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NU_SKIN/NU_SKIN_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NU_SKIN_Book'; /* 뉴스킨 맑은샘체 Book */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NU_SKIN/NU_SKIN_Book.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NU_SKIN_B'; /* 뉴스킨 맑은샘체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NU_SKIN/NU_SKIN_B.woff2') format('woff2');
+}
