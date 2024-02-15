@@ -3,6 +3,7 @@
       var specificPaths = {
         'DWImpactamin': 'DWImpactamin/DWImpactamin.zip',
         'LH': 'LH/LH.zip',
+        'LH_andante': 'LH/LH_andante.zip',
         'Her-Gilwonok': 'Her/Her-Gilwonok.zip',
         'Her-Leeoksun': 'Her/Her-Leeoksun.zip',
         'YanoljaYache': 'Yanolja_Yache/Yanolja_Yache.zip',
