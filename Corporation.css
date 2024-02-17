@@ -2627,3 +2627,48 @@
     font-family: 'HangultuelGothic'; /* 한글틀고딕 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HangultuelGothic/HangultuelGothic.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'ClimateCrisisKR-1979'; /* 기후위기-한글 1979 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-1979.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKR-1990'; /* 기후위기-한글 1990 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-1990.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKR-2000'; /* 기후위기-한글 2000 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-2000.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKR-2010'; /* 기후위기-한글 2010 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-2010.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKR-2019'; /* 기후위기-한글 2019 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-2019.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKR-2030'; /* 기후위기-한글 2030 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-2030.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKR-2040'; /* 기후위기-한글 2040 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-2040.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKR-2050'; /* 기후위기-한글 2050 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKR-2050.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ClimateCrisisKRVF'; /* 기후위기-한글 VF */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKRVF.woff2') format('woff2');
+}
