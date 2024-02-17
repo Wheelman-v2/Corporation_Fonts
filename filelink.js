@@ -10,6 +10,7 @@
         'UNPEOPLE_Gothic': 'UNPEOPLE/UNPEOPLE_Gothic.zip',
         'EASTARJET': 'EASTARJET/EASTARJET.zip',
         'joongnajoche': 'Joonggonara/joongnajoche.zip',
+        'Nixgon': 'Nixgon/NixgonFont2.0.zip',
         // 필요에 따라 링크 추가
       };
 
