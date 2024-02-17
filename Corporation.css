@@ -2672,3 +2672,18 @@
     font-family: 'ClimateCrisisKRVF'; /* 기후위기-한글 VF */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClimateCrisisKR/ClimateCrisisKRVF.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'NIXGONFONTS-L_V2.0'; /* 닉스곤체 L 2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nixgon/NIXGONFONTS-L_V2.0.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NIXGONFONTS-M_V2.0'; /* 닉스곤체 M 2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nixgon/NIXGONFONTS-M_V2.0.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NIXGONFONTS-B_V2.0'; /* 닉스곤체 B 2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nixgon/NIXGONFONTS-B_V2.0.woff2') format('woff2');
+}
