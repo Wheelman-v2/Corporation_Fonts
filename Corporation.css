@@ -2687,3 +2687,34 @@
     font-family: 'NIXGONFONTS-B_V2.0'; /* 닉스곤체 B 2.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nixgon/NIXGONFONTS-B_V2.0.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Yoon_Daehan_R'; /* Yoon 대한 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Yoon_Daehan_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yoon_Daehan_B'; /* Yoon 대한 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Yoon_Daehan_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yoon_Minguk_R'; /* Yoon 민국 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Yoon_Minguk_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yoon_Minguk_B'; /* Yoon 민국 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Yoon_Minguk_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yoon_Dokrip'; /* Yoon 독립 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Yoon_Dokrip.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yoon_Manse'; /* Yoon 만세 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Yoon_Manse.woff2') format('woff2');
+}
+
