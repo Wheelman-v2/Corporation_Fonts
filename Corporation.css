@@ -2718,3 +2718,38 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yoon/Yoon_Manse.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'The_Jamsil_Thin'; /* 더 잠실 1 Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lottemart/The_Jamsil_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'The_Jamsil_Light'; /* 더 잠실 2 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lottemart/The_Jamsil_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'The_Jamsil_Regular'; /* 더 잠실 3 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lottemart/The_Jamsil_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'The_Jamsil_Medium'; /* 더 잠실 4 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lottemart/The_Jamsil_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'The_Jamsil_Bold'; /* 더 잠실 5 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lottemart/The_Jamsil_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'The_Jamsil_ExtraBold'; /* 더 잠실 6 ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lottemart/The_Jamsil_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'THEFACESHOP_INKLIPQUID'; /* 더페이스샵 잉크립퀴드체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THEFACESHOP/THEFACESHOP_INKLIPQUID.woff2') format('woff2');
+}
+
