@@ -2753,3 +2753,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THEFACESHOP/THEFACESHOP_INKLIPQUID.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'ThecircleL'; /* 동그라미재단L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/The_Circle/ThecircleL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ThecircleM'; /* 동그라미재단M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/The_Circle/ThecircleM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ThecircleB'; /* 동그라미재단B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/The_Circle/ThecircleB.woff2') format('woff2');
+}
+
