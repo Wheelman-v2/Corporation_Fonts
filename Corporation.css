@@ -2768,3 +2768,12 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/The_Circle/ThecircleB.woff') format('woff');
 }
 
+@font-face {
+    font-family: 'designhouse_L'; /* 디자인하우스 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DesignHouse/designhouse_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'designhouse_B'; /* 디자인하우스 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DesignHouse/designhouse_B.woff2') format('woff2');
+}
