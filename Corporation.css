@@ -2802,3 +2802,8 @@
     font-family: 'ONE_Mobile_B'; /* ONE 모바일고딕 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ONEstore/ONE_Mobile_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Ownglyph_meetme_Regular'; /* 온글잎 밑미 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/meetme/Ownglyph_meetme_Regular.woff2') format('woff2');
+}
