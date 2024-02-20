@@ -2777,3 +2777,28 @@
     font-family: 'designhouse_B'; /* 디자인하우스 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DesignHouse/designhouse_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'ONE_Mobile_POP'; /* ONE 모바일 POP */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ONEstore/ONE_Mobile_POP.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ONE_Mobile_Title'; /* ONE 모바일고딕 Title */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ONEstore/ONE_Mobile_Title.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ONE_Mobile_L'; /* ONE 모바일고딕 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ONEstore/ONE_Mobile_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ONE_Mobile_R'; /* ONE 모바일고딕 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ONEstore/ONE_Mobile_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ONE_Mobile_B'; /* ONE 모바일고딕 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ONEstore/ONE_Mobile_B.woff2') format('woff2');
+}
