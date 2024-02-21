@@ -2804,6 +2804,11 @@
 }
 
 @font-face {
-    font-family: 'Ownglyph_meetme_Regular'; /* 온글잎 밑미 */
+    font-family: 'Ownglyph_meetme_Regular'; /* 온글잎 밑미체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/meetme/Ownglyph_meetme_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SKYBORI'; /* 하늘보리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Woongjin/SKYBORI.woff2') format('woff2');
 }
