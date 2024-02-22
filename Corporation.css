@@ -2867,3 +2867,8 @@
     font-family: 'SpoqaHanSansNeo-Bold'; /* 스포카 한 산스 네오 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Spoqa_Han_Sans_Neo/SpoqaHanSansNeo-Bold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'ImcreSoojin'; /* 아임크리수진체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ImcreSoojin/ImcreSoojin.woff2') format('woff2');
+}
