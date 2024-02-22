@@ -2873,17 +2873,4 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ImcreSoojin/ImcreSoojin.woff2') format('woff2');
 }
 
-@font-face {
-    font-family: 'SB_Aggro_Light'; /* SB 어그로 L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Aggro/SB_Aggro_Light.woff2') format('woff2');
-}
 
-@font-face {
-    font-family: 'SB_Aggro_Medium'; /* SB 어그로 M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Aggro/SB_Aggro_Medium.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'SB_Aggro_Bold'; /* SB 어그로 B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Aggro/SB_Aggro_Bold.woff2') format('woff2');
-}
