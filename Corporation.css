@@ -2897,3 +2897,38 @@
     font-family: 'WON_Title'; /* 한둥근체 제목 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/WON/WON_Title.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'WantedSans-Regular'; /* Wanted Sans Regular체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'WantedSans-Medium'; /* Wanted Sans Medium체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'WantedSans-SemiBold'; /* Wanted Sans SemiBold체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'WantedSans-Bold'; /* Wanted Sans Bold체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'WantedSans-ExtraBold'; /* Wanted Sans ExtraBold체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'WantedSans-Black'; /* WantedSans-Black체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'WantedSans-ExtraBlack'; /* WantedSans-ExtraBlack체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-ExtraBlack.woff2') format('woff2');
+}
