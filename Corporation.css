@@ -2875,27 +2875,27 @@
 
 @font-face {
     font-family: 'WON_Dotum_R'; /* 한둥근체 돋움R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/WON/WON_Dotum_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Won/WON_Dotum_R.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'WON_Dotum_B'; /* 한둥근체 돋움B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/WON/WON_Dotum_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Won/WON_Dotum_B.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'WON_Batang_R'; /* 한둥근체 바탕R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/WON/WON_Batang_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Won/WON_Batang_R.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'WON_Batang_B'; /* 한둥근체 바탕B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/WON/WON_Batang_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Won/WON_Batang_B.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'WON_Title'; /* 한둥근체 제목 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/WON/WON_Title.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Won/WON_Title.woff2') format('woff2');
 }
 
 @font-face {
