@@ -2932,3 +2932,43 @@
     font-family: 'WantedSans-ExtraBlack'; /* WantedSans-ExtraBlack체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Personalized_Fonts/Wanted_Sans/WantedSans-ExtraBlack.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Infinity_Sans_R'; /* InfinitySansR-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Wemade/Infinity_Sans_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Infinity_Sans_B'; /* InfinitySans-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Wemade/Infinity_Sans_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Infinity_Sans_CondBold'; /* InfinitySans-CondBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Wemade/Infinity_Sans_CondBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Infinity_Sans_WM_R'; /* InfinitySansWMR-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Wemade/Infinity_Sans_WM_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Infinity_Sans_WM_B'; /* InfinitySansWM-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Wemade/Infinity_Sans_WM_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JeonjuCraft_Go'; /* 전주공예고딕체_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JeonjuCraft/JeonjuCraft_Go.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JeonjuCraft_Mj_L'; /* 전주공예명조체_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JeonjuCraft/JeonjuCraft_Mj_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JeonjuCraft_Mj_B'; /* 전주공예명조체_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JeonjuCraft/JeonjuCraft_Mj_B.woff2') format('woff2');
+}
