@@ -2972,3 +2972,8 @@
     font-family: 'JeonjuCraft_Mj_B'; /* 전주공예명조체_Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JeonjuCraft/JeonjuCraft_Mj_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Jaemin3.0'; /* 한글재민3.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Jaemin/Jaemin3.0.woff2') format('woff2');
+}
