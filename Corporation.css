@@ -2977,3 +2977,8 @@
     font-family: 'Jaemin3.0'; /* 한글재민3.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Jaemin/Jaemin3.0.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'GeekbleMalang2'; /* 긱블말랑이체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GeekbleMalang2/GeekbleMalang2.woff2') format('woff2');
+}
