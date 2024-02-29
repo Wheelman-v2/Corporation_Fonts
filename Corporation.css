@@ -2982,3 +2982,28 @@
     font-family: 'GeekbleMalang2'; /* 긱블말랑이체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GeekbleMalang2/GeekbleMalang2.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'DAEHWA_NANUM_L'; /* 1984대화나눔_소곤소곤 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DAEHWA/DAEHWA_NANUM_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DAEHWA_NANUM_M'; /* 1984대화나눔_속닥속닥 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DAEHWA/DAEHWA_NANUM_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DAEHWA_NANUM_B'; /* 1984대화나눔_속닥속닥 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/DAEHWA/DAEHWA_NANUM_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Nexen_R'; /* 넥센타이어 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nexen/Nexen_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Nexen_B'; /* 넥센타이어 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nexen/Nexen_B.woff2') format('woff2');
+}
