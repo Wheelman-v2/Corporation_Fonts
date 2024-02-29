@@ -3007,3 +3007,13 @@
     font-family: 'Nexen_B'; /* 넥센타이어 B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nexen/Nexen_B.woff') format('woff');
 }
+
+@font-face {
+    font-family: 'General_Kim_Jwa-jin_R'; /* 김좌진장군 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/7-ELEVEN/General_Kim_Jwa-jin_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'General_Kim_Jwa-jin_B'; /* 김좌진장군 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/7-ELEVEN/General_Kim_Jwa-jin_B.woff2') format('woff2');
+}
