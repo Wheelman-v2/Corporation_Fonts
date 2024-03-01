@@ -3017,3 +3017,63 @@
     font-family: 'General_Kim_Jwa-jin_B'; /* 김좌진장군 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/7-ELEVEN/General_Kim_Jwa-jin_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Leferi_Point_Type_White'; /* 레페리 포인트 White */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Point_Type_White.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Leferi_Point_Type_White_Oblique'; /* 레페리 포인트 White Oblique */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Point_Type_White_Oblique.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Leferi_Base_Type_Regular'; /* 레페리 베이스 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Base_Type_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Leferi_Base_Type_Bold'; /* 레페리 베이스 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Base_Type_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Leferi_Point_Type_Black'; /* 레페리 포인트 Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Point_Type_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Leferi_Point_Type_Black_Oblique'; /* 레페리 포인트 Black Oblique */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Point_Type_Black_Oblique.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Leferi_Point_Type_Special'; /* 레페리 포인트 Special */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Point_Type_Special.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Leferi_Point_Type_Special_Italic'; /* 레페리 포인트 Special lItalic */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Leferi/Leferi_Point_Type_Special_Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '87MMILSANG-Regular'; /* 팔칠엠엠 일상체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/87MM/87MMILSANG-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '87MMILSANG-Oblique'; /* 팔칠엠엠 일상체 기울임 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/87MM/87MMILSANG-Oblique.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GoodNeighbors_Good_Neighbors_R'; /* 굿네이버스 좋은이웃체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GoodNeighbors/GoodNeighbors_Good_Neighbors_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GoodNeighbors_Good_Neighbors_B'; /* 굿네이버스 좋은이웃체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GoodNeighbors/GoodNeighbors_Good_Neighbors_B.woff2') format('woff2');
+}
