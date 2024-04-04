@@ -3087,3 +3087,8 @@
     font-family: 'LaundryGothic_Bold'; /* 런드리고딕 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lifegoeson/LaundryGothic_Bold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'CoolGuy'; /* 쿨가이 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/CoolGuy.woff2') format('woff2');
+}
