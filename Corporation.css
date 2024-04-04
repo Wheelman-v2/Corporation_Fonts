@@ -3077,3 +3077,13 @@
     font-family: 'GoodNeighbors_Good_Neighbors_B'; /* 굿네이버스 좋은이웃체 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GoodNeighbors/GoodNeighbors_Good_Neighbors_B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'LaundryGothic_Regular'; /* 런드리고딕 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lifegoeson/LaundryGothic_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'LaundryGothic_Bold'; /* 런드리고딕 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Lifegoeson/LaundryGothic_Bold.woff2') format('woff2');
+}
