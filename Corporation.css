@@ -3107,3 +3107,9 @@
     font-family: 'CoolGuy'; /* 쿨가이 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/CoolGuy.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Kyobo_Handwriting_2023'; /* 교보 손글씨 2023 우선아 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2023.woff2') format('woff2');
+}
+
