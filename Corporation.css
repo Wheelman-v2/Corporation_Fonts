@@ -3113,3 +3113,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2023.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Electrical_Safety_Regular'; /* 전기안전체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/kesco/Electrical_Safety_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Electrical_Safety_Bold'; /* 전기안전체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/kesco/Electrical_Safety_Bold.woff2') format('woff2');
+}
+
