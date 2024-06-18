@@ -3123,3 +3123,22 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/kesco/Electrical_Safety_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Mango_Ddobak_L'; /* 망고보드 또박체 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MangoBoard/Mango_Ddobak_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Mango_Ddobak_R'; /* 망고보드 또박체 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MangoBoard/Mango_Ddobak_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Mango_Ddobak_B'; /* 망고보드 또박체 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MangoBoard/Mango_Ddobak_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Mango_Byeolbyeol'; /* 망고보드 별별체  */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MangoBoard/Mango_Byeolbyeol.woff2') format('woff2');
+}
