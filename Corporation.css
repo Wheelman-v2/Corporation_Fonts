@@ -3142,3 +3142,18 @@
     font-family: 'Mango_Byeolbyeol'; /* 망고보드 별별체  */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MangoBoard/Mango_Byeolbyeol.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Ownglyph_okticon_Light'; /* 오케이티콘_light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OKTICON/Ownglyph_okticon_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_okticon_Regular'; /* 오케이티콘_regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OKTICON/Ownglyph_okticon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_okticon_Bold'; /* 오케이티콘_bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OKTICON/Ownglyph_okticon_Bold.woff2') format('woff2');
+}
