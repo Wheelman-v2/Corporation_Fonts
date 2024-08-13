@@ -3157,3 +3157,18 @@
     font-family: 'Ownglyph_okticon_Bold'; /* 오케이티콘_bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OKTICON/Ownglyph_okticon_Bold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'TSTOtmB'; /* 태-으뜸체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TaeFont/TSTOtmB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TSTHlmL'; /* 태-흘림체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TaeFont/TSTHlmL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TSTJktB'; /* 태-조각체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TaeFont/TSTJktB.woff2') format('woff2');
+}
