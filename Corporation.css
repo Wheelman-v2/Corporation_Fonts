@@ -3267,3 +3267,13 @@
     font-family: 'Hakgyoansim_Puzzle_Outline'; /* 학교안심 퍼즐 Outline */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Puzzle_Outline.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Rix_X_ladywatermelon'; /* Rix X 수박양 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Rix/Rix_X_ladywatermelon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SamlipCreamy_White_Regular'; /* 삼립크리미 화이트 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SPC/SamlipCreamy_White_Regular.woff2') format('woff2');
+}
