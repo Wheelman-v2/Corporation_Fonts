@@ -3172,3 +3172,98 @@
     font-family: 'TSTJktB'; /* 태-조각체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TaeFont/TSTJktB.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Hakgyoansim_Geurimilgi_R'; /* 학교안심 그림일기 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Geurimilgi_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Nadeuri_L'; /* 학교안심 나들이 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Nadeuri_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Nadeuri_B'; /* 학교안심 나들이 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Nadeuri_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Dunggeunmiso_R'; /* 학교안심 둥근미소 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Dunggeunmiso_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Dunggeunmiso_B'; /* 학교안심 둥근미소 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Dunggeunmiso_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Badasseugi_L'; /* 학교안심 받아쓰기 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Badasseugi_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Badasseugi_B'; /* 학교안심 받아쓰기 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Badasseugi_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Byeolbichhaneul_L'; /* 학교안심 별빛하늘 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Byeolbichhaneul_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Byeolbichhaneul_B'; /* 학교안심 별빛하늘 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Byeolbichhaneul_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Byeoljari_L'; /* 학교안심 별자리 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Byeoljari_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Byeoljari_B'; /* 학교안심 별자리 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Byeoljari_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Allimjang_R'; /* 학교안심 알림장 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Allimjang_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Allimjang_B'; /* 학교안심 알림장 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Allimjang_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Chulseokbu_L'; /* 학교안심 출석부 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Chulseokbu_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Chulseokbu_B'; /* 학교안심 출석부 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Chulseokbu_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Chilpanjiugae_L'; /* 학교안심 칠판지우개 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Chilpanjiugae_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Chilpanjiugae_B'; /* 학교안심 칠판지우개 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Chilpanjiugae_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Puzzle_Black'; /* 학교안심 퍼즐 Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Puzzle_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Puzzle_Outline'; /* 학교안심 퍼즐 Outline */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Puzzle_Outline.woff2') format('woff2');
+}
