@@ -3277,3 +3277,8 @@
     font-family: 'SamlipCreamy_White_Regular'; /* 삼립크리미 화이트 Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SPC/SamlipCreamy_White_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'RakWoneoRInNaMuCe'; /* 낙원어린나무체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MGrakwon/RakWoneoRInNaMuCe.woff2') format('woff2');
+}
