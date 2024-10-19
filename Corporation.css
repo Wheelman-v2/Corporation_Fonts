@@ -3305,6 +3305,13 @@
 
 @font-face {
     font-family: 'Assacom_FreeGothic'; /* 아싸컴 무료고딕 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Assacom/Assacom_FreeGothic_TTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Assacom/Assacom_FreeGothic.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'BM_kkubulim'; /* 배민 꾸불림체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMKKUBULIM_1.0/BM_kkubulim.woff2') format('woff2');
+}
+
+
 
