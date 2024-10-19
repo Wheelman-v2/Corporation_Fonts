@@ -3303,3 +3303,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SMU/SMUSnowflake-Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Assacom_FreeGothic'; /* 아싸컴 무료고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Assacom/Assacom_FreeGothic_TTF.woff2') format('woff2');
+}
+
