@@ -3293,3 +3293,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Null.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'SMUSnowflake-Regular'; /* 숙명눈꽃체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SMU/SMUSnowflake-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SMUSnowflake-Bold'; /* 숙명눈꽃체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SMU/SMUSnowflake-Bold.woff2') format('woff2');
+}
+
