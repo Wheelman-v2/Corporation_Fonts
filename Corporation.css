@@ -3282,3 +3282,14 @@
     font-family: 'RakWoneoRInNaMuCe'; /* 낙원어린나무체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/MGrakwon/RakWoneoRInNaMuCe.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Gabia_Gosran'; /* 가비아 고스란 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Gosran.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_Null'; /* 가비아 눌 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Null.woff2') format('woff2');
+}
+
