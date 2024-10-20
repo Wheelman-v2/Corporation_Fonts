@@ -3313,5 +3313,20 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Baemin/BMKKUBULIM_1.0/BM_kkubulim.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Flight_Sans_Regular'; /* 플라이트산스-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JEJUair/Flight_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Flight_Sans_Bold'; /* 플라이트산스-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JEJUair/Flight_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Flight_Sans_Title'; /* 플라이트산스-Title */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JEJUair/Flight_Sans_Title.woff2') format('woff2');
+}
+
 
 
