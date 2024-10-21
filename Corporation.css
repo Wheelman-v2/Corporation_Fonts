@@ -3328,5 +3328,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/JEJUair/Flight_Sans_Title.woff2') format('woff2');
 }
 
-
+@font-face {
+    font-family: 'Ria_Sans'; /* 리아체-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LOTTERIA/Ria_Sans.woff2') format('woff2');
+}
 
