@@ -3342,3 +3342,14 @@
     font-family: 'Sahmyook_University_Regular'; /* 삼육대체 Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SYU/Sahmyook_University_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Y_Onepick-Regular'; /* Y 최애-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Onepick-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Y_Onepick-Bold'; /* Y 최애-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Onepick-Bold.woff2') format('woff2');
+}
+
