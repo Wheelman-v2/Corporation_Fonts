@@ -3333,3 +3333,12 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/LOTTERIA/Ria_Sans.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Sahmyook_University_Light'; /* 삼육대체 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SYU/Sahmyook_University_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sahmyook_University_Regular'; /* 삼육대체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SYU/Sahmyook_University_Regular.woff2') format('woff2');
+}
