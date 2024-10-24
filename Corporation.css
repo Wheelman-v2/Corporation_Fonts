@@ -3353,3 +3353,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/Y_Onepick-Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Charmacist_Regular'; /* 참약사 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Charmacist/Charmacist_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Charmacist_Bold'; /* 참약사 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Charmacist/Charmacist_Bold.woff2') format('woff2');
+}
+
