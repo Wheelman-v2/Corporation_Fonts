@@ -3363,3 +3363,14 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Charmacist/Charmacist_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Nelna_LizzyChae'; /* 낼나 리지체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nelna/Nelna_LizzyChae.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Nelna_Yesam_Regular'; /* 낼나 예샘체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nelna/Nelna_Yesam_Regular.woff2') format('woff2');
+}
+
+
