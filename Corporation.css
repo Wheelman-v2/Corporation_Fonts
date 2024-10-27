@@ -3373,4 +3373,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Nelna/Nelna_Yesam_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'STUNNING'; /* 스터닝 산스 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/STUNNING/STUNNING.woff2') format('woff2');
+}
+
 
