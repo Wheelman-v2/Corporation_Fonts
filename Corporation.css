@@ -3378,4 +3378,14 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/STUNNING/STUNNING.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Bookend_Batang_Regular'; /* 북엔드 바탕 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bookend_Batang_Regular/Bookend_Batang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bookend_Batang_SemiBold'; /* 북엔드 바탕 SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bookend_Batang_SemiBold/Bookend_Batang_SemiBold.woff2') format('woff2');
+}
+
 
