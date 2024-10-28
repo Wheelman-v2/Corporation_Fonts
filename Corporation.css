@@ -890,6 +890,16 @@
 }
 
 @font-face {
+    font-family: 'Binggrae2_Light'; /* 빙그레체Ⅱ-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae2_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae2_Bold'; /* 빙그레체Ⅱ-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae2_Bold.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'Binggrae_Light'; /* 빙그레체-Light */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Light.woff2') format('woff2');
 }
