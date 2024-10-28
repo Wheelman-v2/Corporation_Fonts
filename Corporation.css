@@ -3388,4 +3388,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bookend/Bookend_Batang_SemiBold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'KoreaREB'; /* 한국부동산원체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/REB/KoreaREB.woff2') format('woff2');
+}
+
 
