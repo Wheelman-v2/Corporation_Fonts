@@ -850,6 +850,16 @@
 }
 
 @font-face {
+    font-family: 'Binggrae_Taom_Light'; /* 빙그레 따옴체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Taom_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Binggrae_Taom_Bold'; /* 빙그레 따옴체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Taom_Bold.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'Binggrae_Melona_Light'; /* 빙그레 메로나체-Light */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Binggrae/Binggrae_Melona_Light.woff2') format('woff2');
 }
