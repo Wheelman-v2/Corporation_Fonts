@@ -3413,4 +3413,34 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/REB/KoreaREB.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Hana2.0_L'; /* 하나2.0-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hana/Hana2.0_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hana2.0_R'; /* 하나2.0-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hana/Hana2.0_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hana2.0_M'; /* 하나2.0-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hana/Hana2.0_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hana2.0_CM'; /* 하나2.0-CM */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hana/Hana2.0_CM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hana2.0_B'; /* 하나2.0-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hana/Hana2.0_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hana2.0_H'; /* 하나2.0-Heavy */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hana/Hana2.0_H.woff2') format('woff2');
+}
+
 
