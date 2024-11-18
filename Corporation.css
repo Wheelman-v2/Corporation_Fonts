@@ -3443,4 +3443,14 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hana/Hana2.0_H.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Moneygraphy-Pixel'; /* 머니그라피 Pixel */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/moneygraphy/Moneygraphy-Pixel.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Moneygraphy-Rounded'; /* 머니그라피 Rounded */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/moneygraphy/Moneygraphy-Rounded.woff2') format('woff2');
+}
+
 
