@@ -3453,4 +3453,30 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/moneygraphy/Moneygraphy-Rounded.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'high1_Wonchuri_Body_R'; /* 하이원 원추리체 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/high1/high1_Wonchuri_Body_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'high1_Wonchuri_Body_B'; /* 하이원 원추리체 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/high1/high1_Wonchuri_Body_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'high1_Wonchuri_Title_L'; /* 하이원 제목 원추리체 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/high1/high1_Wonchuri_Title_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'high1_Wonchuri_Title_M'; /* 하이원 제목 원추리체 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/high1/high1_Wonchuri_Title_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'high1_Wonchuri_Title_B'; /* 하이원 제목 원추리체 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/high1/high1_Wonchuri_Title_B.woff2') format('woff2');
+}
+
+
 
