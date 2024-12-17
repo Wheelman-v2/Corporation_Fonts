@@ -12,6 +12,7 @@
         'joongnajoche': 'Joonggonara/joongnajoche.zip',
         'Nixgon': 'Nixgon/NixgonFont2.0.zip',
         'InkLipquidFonts': 'THEFACESHOP/InkLipquidFonts_windows.zip',
+        'high1_Wonchuri': 'high1/high1_Wonchuri.zip',
         // 필요에 따라 링크 추가
       };
 
