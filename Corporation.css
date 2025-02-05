@@ -3478,5 +3478,24 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/high1/high1_Wonchuri_Title_B.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'HangamePoker-Regular'; /* 한게임포커-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHN/HangamePoker-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HangamePoker-Medium'; /* 한게임포커-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHN/HangamePoker-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HangamePoker-SemiBold'; /* 한게임포커-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHN/HangamePoker-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HangamePoker-Bold'; /* 한게임포커-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHN/HangamePoker-Bold.woff2') format('woff2');
+}
 
 
