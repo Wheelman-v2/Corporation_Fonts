@@ -3498,4 +3498,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/NHN/HangamePoker-Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'IdeaHwegwan'; /* 아이디어회관체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/IdeaHwegwan/IdeaHwegwan.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bnviit_Lasik'; /* 비앤빛 라식체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bnviit/Bnviit_Lasik.woff2') format('woff2');
+}
 
