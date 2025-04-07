@@ -3508,3 +3508,33 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Bnviit/Bnviit_Lasik.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Kakao_Small_Sans_Light'; /* 카카오_작은글씨-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kakao/Kakao_Small_Sans_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kakao_Small_Sans_Regular'; /* 카카오_작은글씨-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kakao/Kakao_Small_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kakao_Small_Sans_Bold'; /* 카카오_작은글씨-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kakao/Kakao_Small_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kakao_Big_Sans_Regular'; /* 카카오_큰글씨-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kakao/Kakao_Big_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kakao_Big_Sans_Bold'; /* 카카오_큰글씨-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kakao/Kakao_Big_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kakao_Big_Sans_ExtraBold'; /* 카카오_큰글씨-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kakao/Kakao_Big_Sans_ExtraBold.woff2') format('woff2');
+}
+
