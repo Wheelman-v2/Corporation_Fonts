@@ -3538,3 +3538,22 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kakao/Kakao_Big_Sans_ExtraBold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_Gellyroll'; /* 그리운 겔리롤 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Gellyroll.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Kimjungwon'; /* 그리운 김정원체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Kimjungwon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Mongtori'; /* 그리운 몽토리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Mongtori.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Shak-shak-shak'; /* 그리운 샥샥샥 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Shak-shak-shak.woff2') format('woff2');
+}
