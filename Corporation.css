@@ -3557,3 +3557,9 @@
     font-family: 'Griun_Shak-shak-shak'; /* 그리운 샥샥샥 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Shak-shak-shak.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_NoltoTAENGGU'; /* 그리운 놀토서기탱구체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_NoltoTAENGGU.woff2') format('woff2');
+}
+
