@@ -3568,3 +3568,23 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Samulnori_Medium.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'TJ_Joy_of_singing_L'; /* TJ 노래하는즐거움체 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TJ/TJ_Joy_of_singing_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TJ_Joy_of_singing_M'; /* TJ 노래하는즐거움체 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TJ/TJ_Joy_of_singing_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TJ_Joy_of_singing_B'; /* TJ 노래하는즐거움체 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TJ/TJ_Joy_of_singing_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TJ_Joy_of_singing_EB'; /* TJ 노래하는즐거움체 EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TJ/TJ_Joy_of_singing_EB.woff2') format('woff2');
+}
+
