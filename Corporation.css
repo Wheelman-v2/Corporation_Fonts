@@ -3563,3 +3563,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_NoltoTAENGGU.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Callifont_Samulnori_Medium'; /* 사물놀이체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Samulnori_Medium.woff2') format('woff2');
+}
+
