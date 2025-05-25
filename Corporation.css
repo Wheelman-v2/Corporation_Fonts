@@ -3588,3 +3588,38 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/TJ/TJ_Joy_of_singing_EB.woff2') format('woff2');
 }
 
+
+@font-face {
+    font-family: 'Asta_Sans_Light'; /* AstaSans-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/42dot/Asta_Sans_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Asta_Sans_Regular'; /* AstaSans-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/42dot/Asta_Sans_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Asta_Sans_Medium'; /* AstaSans-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/42dot/Asta_Sans_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Asta_Sans_SemiBold'; /* AstaSans-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/42dot/Asta_Sans_SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Asta_Sans_Bold'; /* AstaSans-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/42dot/Asta_Sans_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Asta_Sans_ExtraBold'; /* AstaSans-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/42dot/Asta_Sans_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '770Balsa_Regular'; /* 칠칠공 발사체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/770/770Balsa_Regular.woff2') format('woff2');
+}
