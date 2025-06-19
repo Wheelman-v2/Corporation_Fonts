@@ -3623,3 +3623,8 @@
     font-family: '770Balsa_Regular'; /* 칠칠공 발사체-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/770/770Balsa_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Hangeuljaemin6'; /* 한글재민6.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Jaemin/Hangeuljaemin6.woff2') format('woff2');
+}
