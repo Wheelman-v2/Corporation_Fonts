@@ -3628,3 +3628,14 @@
     font-family: 'Hangeuljaemin6'; /* 한글재민6.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Jaemin/Hangeuljaemin6.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Cafe24_PRO_UP'; /* Cafe24 PRO UP */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24_PRO_UP.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Kyobo_Handwriting_2024'; /* 교보 손글씨 2024 박서우 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2024.woff2') format('woff2');
+}
+
