@@ -3654,3 +3654,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/printingbox/printingboxBold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Pinkfong_Baby_Shark_Light'; /* 핑크퐁 아기상어  Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/pinkfong/Pinkfong_Baby_Shark_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Pinkfong_Baby_Shark_Regular'; /* 핑크퐁 아기상어  Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/pinkfong/Pinkfong_Baby_Shark_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Pinkfong_Baby_Shark_Bold'; /* 핑크퐁 아기상어  Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/pinkfong/Pinkfong_Baby_Shark_Bold.woff2') format('woff2');
+}
+
