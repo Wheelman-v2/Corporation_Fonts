@@ -3639,3 +3639,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2024.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'printingboxLight'; /* 프박뽑았체Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/printingbox/printingboxLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'printingboxMedium'; /* 프박뽑았체Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/printingbox/printingboxMedium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'printingboxBold'; /* 프박뽑았체Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/printingbox/printingboxBold.woff2') format('woff2');
+}
+
