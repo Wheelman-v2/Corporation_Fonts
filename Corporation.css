@@ -3669,3 +3669,38 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/pinkfong/Pinkfong_Baby_Shark_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Hakgyoansim_Mondangbunfil_R'; /* 학교안심 몽당연필 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Mondangbunfil_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Bandal_L'; /* 학교안심 반달 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Bandal_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Susukkang_L'; /* 학교안심 수수깡 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Susukkang_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Siganpyo_R'; /* 학교안심 시간표 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Siganpyo_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Eohangkkumigi_B'; /* 학교안심 어항꾸미기 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Eohangkkumigi_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Jayeon_R'; /* 학교안심 자연 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Jayeon_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Jayusigan_R'; /* 학교안심 자유시간 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Jayusigan_R.woff2') format('woff2');
+}
+
