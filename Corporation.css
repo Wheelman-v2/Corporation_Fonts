@@ -3704,3 +3704,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Jayusigan_R.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_YEONWOO'; /* 그리운 사막의 연우체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_YEONWOO.woff2') format('woff2');
+}
+
+
