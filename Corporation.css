@@ -3709,4 +3709,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_YEONWOO.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'MemomentKkukkukk'; /* 메모먼트 꾹꾹체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/memoment/MemomentKkukkukk.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'OkDanDan_Bold'; /* Ok단단체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OKTICON/OkDanDan_Bold.woff2') format('woff2');
+}
 
