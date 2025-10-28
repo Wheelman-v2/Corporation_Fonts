@@ -3719,3 +3719,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OKTICON/OkDanDan_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Callifont_Shouting_Medium'; /* 샤우팅-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Shouting_Medium.woff2') format('woff2');
+}
+
+
