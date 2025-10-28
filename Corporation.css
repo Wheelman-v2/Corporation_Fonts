@@ -3734,3 +3734,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Sai.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_Gossi'; /* 그리운 고씨네 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Gossi.woff2') format('woff2');
+}
