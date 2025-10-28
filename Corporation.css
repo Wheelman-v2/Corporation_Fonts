@@ -3724,4 +3724,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Shouting_Medium.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'GabiaDunn'; /* 가비아_던체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/GabiaDunn.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gabia_Sai'; /* 가비아_사이체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/Gabia_Sai.woff2') format('woff2');
+}
 
