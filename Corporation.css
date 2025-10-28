@@ -3738,3 +3738,28 @@
     font-family: 'Griun_Gossi'; /* 그리운 고씨네 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Gossi.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_Gyuwon_Thin_Thin'; /* 그리운_규원체-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Gyuwon_Thin_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Gyuwon'; /* 그리운_규원체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Gyuwon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Myoeun_ddobak'; /* 그리운_묘은또박체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Myoeun_ddobak.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Myoeun_Heullim'; /* 그리운_묘은흘림체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Myoeun_Heullim.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_LEFT_SG'; /* 그리운_왼손자비슬기루체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_LEFT_SG.woff2') format('woff2');
+}
