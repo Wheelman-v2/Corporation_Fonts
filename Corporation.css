@@ -3844,4 +3844,24 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OA_Enter/ZEN_SERIF_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Clipartkorea_Bold'; /* 클립아트코리아_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClipArtKorea/Clipartkorea_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Clipartkorea_Light'; /* 클립아트코리아_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClipArtKorea/Clipartkorea_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Clipartkorea_Medium'; /* 클립아트코리아_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClipArtKorea/Clipartkorea_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Clipartkorea_Regular'; /* 클립아트코리아_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClipArtKorea/Clipartkorea_Regular.woff2') format('woff2');
+}
+
 
