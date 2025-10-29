@@ -3834,4 +3834,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/Hakgyoansim_Poster_B.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Hungeul'; /* 헌글 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EPIDGames/Hungeul.woff2') format('woff2');
+}
 
