@@ -3839,3 +3839,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/EPIDGames/Hungeul.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'ZEN_SERIF_Regular'; /* ZEN-SERIF-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/OA_Enter/ZEN_SERIF_Regular.woff2') format('woff2');
+}
+
+
