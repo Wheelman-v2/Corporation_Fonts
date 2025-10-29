@@ -3864,4 +3864,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/ClipArtKorea/Clipartkorea_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'KNPSOdaesan'; /* KNPS오대산체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Trab/KNPSOdaesan.woff2') format('woff2');
+}
 
