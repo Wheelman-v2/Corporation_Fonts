@@ -3873,3 +3873,28 @@
     font-family: 'Songam_LHS'; /* 송암 이형식 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Songam_LHS.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Healthset_Gothic_Bold'; /* 헬스셋고딕Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hangria/Healthset_Gothic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Healthset_Gothic_Light'; /* 헬스셋고딕Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hangria/Healthset_Gothic_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Healthset_Luckybag'; /* 헬스셋복조리Std */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hangria/Healthset_Luckybag.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Healthset_Bamboo'; /* 헬스셋조릿대Std */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hangria/Healthset_Bamboo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JMK'; /* JMK체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hangria/JMK.woff2') format('woff2');
+}
