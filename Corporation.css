@@ -3789,3 +3789,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24PROSlim-Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_Simsimche'; /* 그리운 심심체－Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Simsimche.woff2') format('woff2');
+}
