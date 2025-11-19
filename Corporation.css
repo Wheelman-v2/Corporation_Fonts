@@ -1444,131 +1444,6 @@
 }
 
 @font-face {
-    font-family: '123RF'; /* 유토이미지 123RF체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/123RF.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_Gothic_L'; /* 유토이미지 고딕_L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_Gothic_L.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_Gothic_R'; /* 유토이미지 고딕_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_Gothic_R.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_Gothic_B'; /* 유토이미지 고딕_B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_Gothic_B.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'Kidbutterfly'; /* 유토이미지 꼬마나비체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Kidbutterfly.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Flowerbear'; /* 유토이미지 꽃보다곰팅체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Flowerbear.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_Tree_L'; /* 유토이미지 나무_L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_Tree_L.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_Tree_R'; /* 유토이미지 나무_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_Tree_R.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_Tree_B'; /* 유토이미지 나무_B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_Tree_B.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'Newyorkers_'; /* 유토이미지 뉴욕커체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Newyorkers_.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Littlebear'; /* 유토이미지 리틀베어체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Littlebear.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Minibeancafe'; /* 유토이미지 미니콩다방체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Minibeancafe.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Starlandmoon'; /* 유토이미지 별나라달님체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Starlandmoon.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Lovespring'; /* 유토이미지 봄이조아체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Lovespring.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Balsamtint'; /* 유토이미지 봉숭아틴트체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Balsamtint.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Redpostbox'; /* 유토이미지 빨간우체통체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Redpostbox.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_handwriting_L'; /* 유토이미지 손글씨_L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_handwriting_L.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_handwriting_R'; /* 유토이미지 손글씨_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_handwriting_R.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE_handwriting_B'; /* 유토이미지 손글씨_B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE_handwriting_B.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'Chocolatlatte'; /* 유토이미지 쇼콜라라떼체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Chocolatlatte.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'JejuGamgyul_R'; /* 유토이미지 제주감귤_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/JejuGamgyul_R.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Chyaochyureu'; /* 유토이미지 챠오츄르체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Chyaochyureu.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Flower'; /* 유토이미지 플라워체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Flower.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Harbang_R'; /* 유토이미지 하르방_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/Harbang_R.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'UTOIMAGE'; /* 유토이미지체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/UTOIMAGE/UTOIMAGE.woff2') format('woff2');
-}
-
-@font-face {
     font-family: 'Eulyoo1945-Regular'; /* 을유1945체 Regular*/
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Eulyoo1945/Eulyoo1945-Regular.woff2') format('woff2');
 }
@@ -3898,3 +3773,19 @@
     font-family: 'JMK'; /* JMK체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hangria/JMK.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Cafe24PROSlim-Light'; /* 카페24 프로 슬림 에어 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24PROSlim-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24PROSlim-Regular'; /* 카페24 프로 슬림 핏 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24PROSlim-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Cafe24PROSlim-Bold'; /* 카페24 프로 슬림 맥스 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Cafe24/Cafe24PROSlim-Bold.woff2') format('woff2');
+}
+
