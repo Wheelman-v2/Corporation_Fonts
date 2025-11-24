@@ -13,6 +13,7 @@
         'Nixgon': 'Nixgon/NixgonFont2.0.zip',
         'InkLipquidFonts': 'THEFACESHOP/InkLipquidFonts_windows.zip',
         'high1': 'high1/high1_Wonchuri.zip',
+        'KOFIH_DrLEEJW': 'KOFIH/KOFIH_DrLEEJW.zip',
         // 필요에 따라 링크 추가
       };
 
@@ -24,3 +25,4 @@
         console.error('잘못된 링크 유형:', linkType);
       }
     }
+
