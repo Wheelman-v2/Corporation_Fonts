@@ -3793,3 +3793,8 @@
     font-family: 'Griun_Simsimche'; /* 그리운 심심체－Rg */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Simsimche.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'SSRO_WaterDrop_Regular'; /* 스스로넷 물방울체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/SSRO_WaterDrop_Regular.woff2') format('woff2');
+}
