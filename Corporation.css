@@ -3798,3 +3798,20 @@
     font-family: 'SSRO_WaterDrop_Regular'; /* 스스로넷 물방울체 Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/SSRO_WaterDrop_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Korail_B'; /* 코레일체 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/Korail_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Korail_L'; /* 코레일체 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/Korail_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Korail_M'; /* 코레일체 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KORAIL/Korail_M.woff2') format('woff2');
+}
+
+
