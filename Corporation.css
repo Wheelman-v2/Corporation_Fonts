@@ -3815,3 +3815,28 @@
 }
 
 
+@font-face {
+    font-family: 'NeoHyundai'; /* 네오현대 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hyundai/NeoHyundai.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NeoHyundai_1'; /* 네오현대 EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hyundai/NeoHyundai_1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NeoHyundai_2'; /* 네오현대 EBK */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hyundai/NeoHyundai_2.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NeoHyundai_3'; /* 네오현대 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hyundai/NeoHyundai_3.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NeoHyundai_4'; /* 네오현대 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hyundai/NeoHyundai_4.woff2') format('woff2');
+}
+
