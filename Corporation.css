@@ -3840,3 +3840,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hyundai/NeoHyundai_4.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'SD_UNICEF_Bubbly'; /* SD 유니세프 꾸러기체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/unicef/SD_UNICEF_Bubbly.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SD_UNICEF_Hearty'; /* SD 유니세프 도담체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/unicef/SD_UNICEF_Hearty.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SD_UNICEF_Sunny'; /* SD 유니세프 해맑음체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/unicef/SD_UNICEF_Sunny.woff2') format('woff2');
+}
+
