@@ -3855,3 +3855,38 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/unicef/SD_UNICEF_Sunny.woff2') format('woff2');
 }
 
+
+@font-face {
+    font-family: 'KERIS_BAEUM_B'; /* 케리스 배움체_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_BAEUM_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KERIS_BAEUM_EB'; /* 케리스 배움체_EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_BAEUM_EB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KERIS_BAEUM_L'; /* 케리스 배움체_L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_BAEUM_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KERIS_BAEUM_R'; /* 케리스 배움체_R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_BAEUM_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KERIS_KEDU_B'; /* 케리스 케듀체_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_KEDU_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KERIS_KEDU_Line'; /* 케리스 케듀체_Line */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_KEDU_Line.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KERIS_KEDU_R'; /* 케리스 케듀체_R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_KEDU_R.woff2') format('woff2');
+}
