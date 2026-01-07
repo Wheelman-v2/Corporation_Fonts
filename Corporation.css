@@ -3890,3 +3890,44 @@
     font-family: 'KERIS_KEDU_R'; /* 케리스 케듀체_R */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Hakgyoansim/KERIS_KEDU_R.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Soul_SaekdongBlack_L'; /* 솔 색동저고리_L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Soulfont/Soul_SaekdongBlack_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Soul_SaekdongBlack_M'; /* 솔 색동저고리_M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Soulfont/Soul_SaekdongBlack_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Soul_Title'; /* 솔 타이틀 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Soulfont/Soul_Title.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_PolSensibility'; /* 그리운 경찰감성체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_PolSensibility.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_PolFairness'; /* 그리운 경찰공평체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_PolFairness.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_PolHumanrights'; /* 그리운 경찰인권체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_PolHumanrights.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Yuri_Daggu'; /* 그리운 유리 다꾸체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Yuri_Daggu.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Cocochoitoon'; /* 그리운 코코초이툰-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Cocochoitoon.woff2') format('woff2');
+}
+
