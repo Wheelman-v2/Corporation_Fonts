@@ -3955,3 +3955,29 @@
     font-family: '11Street_Gothic-Kor_Regular'; /* 11번가_고딕_regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/11st/11Street_Gothic-Kor_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'KBL_Jump_R_TTF'; /* KBL점프체_R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBL/KBL_Jump_R_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBL_Jump_B_TTF'; /* KBL점프체_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBL/KBL_Jump_B_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBL_Jump_EB_Condensed_TTF'; /* KBL점프체_EB_Condensed */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBL/KBL_Jump_EB_Condensed_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBL_Jump_EB_Extended_TTF'; /* KBL점프체_EB_Extended */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBL/KBL_Jump_EB_Extended_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KBL_Court_EB_TTF'; /* KBL코트체_EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBL/KBL_Court_EB_TTF.woff2') format('woff2');
+}
+
