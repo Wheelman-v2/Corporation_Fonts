@@ -3931,3 +3931,12 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Cocochoitoon.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'YPairingFont_Bold'; /* Y페어링체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/YPairingFont_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YPairingFont_Regular'; /* Y페어링체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Y/YPairingFont_Regular.woff2') format('woff2');
+}
