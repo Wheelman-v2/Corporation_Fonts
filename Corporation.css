@@ -3986,3 +3986,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/YDPCF/YdpcfMullaebreweryyoungchoel_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'YEONGNAMNEWS_Ku_Sang'; /* 영남일보 구상 시인 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/YeonnamNews/YEONGNAMNEWS_Ku_Sang.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YNAMNEWS(B)'; /* 영남일보(B) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/YeonnamNews/YNAMNEWS(B).woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YNAMNEWS'; /* 영남일보(M) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/YeonnamNews/YNAMNEWS.woff2') format('woff2');
+}
+
