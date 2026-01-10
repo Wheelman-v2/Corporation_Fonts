@@ -3981,3 +3981,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KBL/KBL_Court_EB_TTF.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'YdpcfMullaebreweryyoungchoel_Regular'; /* 문래양조영철-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/YDPCF/YdpcfMullaebreweryyoungchoel_Regular.woff2') format('woff2');
+}
+
