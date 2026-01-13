@@ -4001,3 +4001,28 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/YeonnamNews/YNAMNEWS.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'GriunXHangeul_Gowoon'; /* 그리운X국한박 고운-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Gowoon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_CWs_handwriting'; /* 그리운X국한박 권찬욱 떨림체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_CWs_handwriting.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_DAHL'; /* 그리운X국한박 다흘체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_DAHL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Shin_Cat'; /* 그리운X국한박 신고양이-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Shin_Cat.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Fter'; /* 그리운X국한박 프터-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Fter.woff2') format('woff2');
+}
+
