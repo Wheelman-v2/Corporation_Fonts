@@ -4027,8 +4027,8 @@
 }
 
 @font-face {
-    font-family: 'Griun_Ahyoung's_Handwrite_In_2019'; /* 그리운_2019년도_아영의_손글씨-Rg */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Ahyoung's_Handwrite_In_2019.woff2') format('woff2');
+    font-family: 'Griun_Ahyoung_Handwrite_In_2019'; /* 그리운_2019년도_아영의_손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Ahyoung_Handwrite_In_2019.woff2') format('woff2');
 }
 
 @font-face {
@@ -4070,4 +4070,5 @@
     font-family: 'Griun_Hyoje'; /* 그리운_효제체-Rg */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Hyoje.woff2') format('woff2');
 }
+
 
