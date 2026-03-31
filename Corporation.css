@@ -4071,4 +4071,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Hyoje.woff2') format('woff2');
 }
 
-
+@font-face {
+    font-family: 'Kyobo_Handwriting_2025'; /* 교보 손글씨 2025 이유빈 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2025.woff2') format('woff2');
+}
