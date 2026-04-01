@@ -4075,3 +4075,60 @@
     font-family: 'Kyobo_Handwriting_2025'; /* 교보 손글씨 2025 이유빈 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kyobo/Kyobo_Handwriting_2025.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_Naerijjoen_HyunJu'; /* 그리운 내리쬐는 현주체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Naerijjoen_HyunJu.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Banguri'; /* 그리운X국한박 글방구리체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Banguri.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_A_Foreign_Hand'; /* 그리운X국한박 낯선손글-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_A_Foreign_Hand.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_DDURAE'; /* 그리운X국한박 뚜레-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_DDURAE.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Min'; /* 그리운X국한박 민-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Min.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Bbangsim'; /* 그리운X국한박 빵심-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Bbangsim.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Sarang_seu_reo_un'; /* 그리운X국한박 사랑스러운-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Sarang_seu_reo_un.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Songle_songeul_heullim'; /* 그리운X국한박 송글손글 감성 흘림체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Songle_songeul_heullim.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_OCHUNGI.KIM'; /* 그리운X국한박 오춘기 김작가-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_OCHUNGI.KIM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Equal'; /* 그리운X국한박 이꼴체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Equal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GriunXHangeul_Jeong'; /* 그리운X국한박 제옹체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Jeong.woff2') format('woff2');
+}
+
+
