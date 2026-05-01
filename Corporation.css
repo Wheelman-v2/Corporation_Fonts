@@ -4131,4 +4131,17 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/GriunXHangeul_Jeong.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_Ina_Doongdoong'; /* 그리운 연이나 둥둥체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Ina_Doongdoong.woff2') format('woff2');
+}
 
+@font-face {
+    font-family: 'Lasthighteen_Bold'; /* 하이틴체 최효령 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/Lasthighteen_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Round_and_round'; /* 둥글둥글체 김규리 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/Round_and_round.woff2') format('woff2');
+}
