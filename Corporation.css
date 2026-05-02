@@ -4145,3 +4145,8 @@
     font-family: 'Round_and_round'; /* 둥글둥글체 김규리 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/Round_and_round.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Asummerflowertree'; /* 오뉴월의 꽃나무v.2.0 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/Asummerflowertree.woff2') format('woff2');
+}
