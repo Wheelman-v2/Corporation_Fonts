@@ -4150,3 +4150,13 @@
     font-family: 'Asummerflowertree'; /* 오뉴월의 꽃나무v.2.0 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/SSRONET/Asummerflowertree.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'GraceSerif_Bold'; /* 우아한 세리프-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/GraceSerif_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GraceSerif_Regular'; /* 우아한 세리프-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/GraceSerif_Regular.woff2') format('woff2');
+}
