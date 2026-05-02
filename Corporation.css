@@ -4160,3 +4160,83 @@
     font-family: 'GraceSerif_Regular'; /* 우아한 세리프-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/GraceSerif_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_Neat_handwriting'; /* 그리운 단정한 손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Neat_handwriting.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Donguri'; /* 그리운 동구리체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Donguri.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_BORA'; /* 그리운 보라-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_BORA.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Sein'; /* 그리운 세인-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Sein.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Semfafa'; /* 그리운 셈빠성희-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Semfafa.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Pont'; /* 그리운 손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Pont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Soly_Font'; /* 그리운 솔이 손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Soly_Font.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Seowon_Font'; /* 그리운 아홉살 서원 폰트-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Seowon_Font.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_ANNA'; /* 그리운 안나-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_ANNA.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_On_handwriting'; /* 그리운 오엔손글씨체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_On_handwriting.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Yujuzzang'; /* 그리운 유주짱-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Yujuzzang.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Hanahanadool'; /* 그리운 이하나벼룩둘 손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Hanahanadool.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_EverydayJeong'; /* 그리운 정매일체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_EverydayJeong.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Moji'; /* 그리운 지여잉 손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Moji.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Perfume'; /* 그리운 향수체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Perfume.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Hoisin'; /* 그리운 회민-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Hoisin.woff2') format('woff2');
+}
