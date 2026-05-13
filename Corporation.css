@@ -4240,3 +4240,9 @@
     font-family: 'Griun_Hoisin'; /* 그리운 회민-Rg */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Hoisin.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_Cherry_1_Spoon'; /* 그리운 체리 한스푼 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Cherry_1_Spoon.woff2') format('woff2');
+}
+
