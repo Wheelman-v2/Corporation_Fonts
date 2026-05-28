@@ -4246,3 +4246,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Cherry_1_Spoon.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_OMIRI'; /* 그리운 오미리 손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_OMIRI.woff2') format('woff2');
+}
+
