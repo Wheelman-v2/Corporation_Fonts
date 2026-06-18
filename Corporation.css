@@ -4251,3 +4251,32 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_OMIRI.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Callifont_Daynote_Jellypen_Bold'; /* 캘리폰트 하루일기체 젤리펜-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Daynote_Jellypen_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_Daynote_Jellypen_Medium'; /* 캘리폰트 하루일기체 젤리펜-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Daynote_Jellypen_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_Daynote_Jellypen_Thin'; /* 캘리폰트 하루일기체 젤리펜-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Daynote_Jellypen_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_Sharpie_Bold'; /* 캘리폰트 날쌘돌이-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Sharpie_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_Sharpie_Light'; /* 캘리폰트 날쌘돌이-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Sharpie_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_Sharpie_Medium'; /* 캘리폰트 날쌘돌이-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Sharpie_Medium.woff2') format('woff2');
+}
