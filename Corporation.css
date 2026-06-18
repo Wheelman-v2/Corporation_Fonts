@@ -2999,8 +2999,18 @@
 }
 
 @font-face {
-    font-family: 'CoolGuy'; /* 쿨가이 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/CoolGuy.woff2') format('woff2');
+    font-family: 'Callifont_CoolGuy_Bold'; /* 쿨가이-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_CoolGuy_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_CoolGuy_Medium'; /* 쿨가이-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_CoolGuy_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_CoolGuy_Thin'; /* 쿨가이-Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_CoolGuy_Thin.woff2') format('woff2');
 }
 
 @font-face {
