@@ -3600,6 +3600,16 @@
 }
 
 @font-face {
+    font-family: 'Callifont_Shouting_Bold'; /* 샤우팅-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Shouting_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Callifont_Shouting_Light'; /* 샤우팅-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Shouting_Light.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'GabiaDunn'; /* 가비아_던체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Gabia/GabiaDunn.woff2') format('woff2');
 }
