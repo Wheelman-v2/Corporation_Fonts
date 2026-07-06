@@ -4310,3 +4310,13 @@
     font-family: 'Callifont_Sharpie_Medium'; /* 캘리폰트 날쌘돌이-Medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Callifont/Callifont_Sharpie_Medium.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_Naram'; /* 그리운 나람체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Naram.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Puha_Font'; /* 그리운 푸하체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Puha_Font.woff2') format('woff2');
+}
