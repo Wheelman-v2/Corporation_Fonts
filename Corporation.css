@@ -4320,3 +4320,8 @@
     font-family: 'Griun_Puha_Font'; /* 그리운 푸하체-Rg */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Puha_Font.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_DUJUNDUJUN'; /* 그리운 두준두준체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_DUJUNDUJUN.woff2') format('woff2');
+}
