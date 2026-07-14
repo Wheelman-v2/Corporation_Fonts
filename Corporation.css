@@ -4325,3 +4325,98 @@
     font-family: 'Griun_DUJUNDUJUN'; /* 그리운 두준두준체-Rg */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_DUJUNDUJUN.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'YK_Green_Forest_Bold'; /* 유한킴벌리_푸른숲체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yuhan/YK_Green_Forest_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YK_Green_Forest_Light'; /* 유한킴벌리_푸른숲체 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yuhan/YK_Green_Forest_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'YK_Green_Forest_Medium'; /* 유한킴벌리_푸른숲체 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Yuhan/YK_Green_Forest_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KMU80_Sungkok_SemiSerif'; /* KMU80_성곡_SemiSerif */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KMU/KMU80_Sungkok_SemiSerif.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KMU80_Sungkok_Serif'; /* KMU80_성곡_Serif */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KMU/KMU80_Sungkok_Serif.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KMU80_Haeong_Sans'; /* KMU80_해옹_Sans */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KMU/KMU80_Haeong_Sans.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KMU80_Haeong_SemiSans'; /* KMU80_해옹_SemiSans */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KMU/KMU80_Haeong_SemiSans.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Hangeuljaemin4.0_Regular'; /* 명원체(한글재민체4.0)-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KMU/Hangeuljaemin4.0_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GoshinGothic_Bold'; /* 고신고딕-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GoshinGothic/GoshinGothic_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GoshinGothic_Bold_1'; /* 고신고딕-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GoshinGothic/GoshinGothic_Bold_1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GoshinGothic_Regular'; /* 고신고딕-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GoshinGothic/GoshinGothic_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GoshinGothic_Bold_2'; /* 고신고딕-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GoshinGothic/GoshinGothic_Bold_2.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '페어_큰부리새_Bold'; /* 페어 큰부리새-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/페어_큰부리새_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '페어_큰부리새_Light'; /* 페어 큰부리새-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/페어_큰부리새_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '페어_큰부리새_Regular'; /* 페어 큰부리새-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/페어_큰부리새_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GFC_Gunhami_Talks'; /* 경남FC_군함이말문트였체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KNFC/GFC_Gunhami_Talks.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GFC_Red_Spirit_Black'; /* 경남FC_투혼경남체-Black */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KNFC/GFC_Red_Spirit_Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GFC_Red_Spirit_Bold'; /* 경남FC_투혼경남체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KNFC/GFC_Red_Spirit_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GFC_Red_Spirit_Medium'; /* 경남FC_투혼경남체-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KNFC/GFC_Red_Spirit_Medium.woff2') format('woff2');
+}
