@@ -4387,18 +4387,18 @@
 }
 
 @font-face {
-    font-family: '페어_큰부리새_Bold'; /* 페어 큰부리새-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/페어_큰부리새_Bold.woff2') format('woff2');
+    font-family: 'PearToucan_Bold'; /* 페어 큰부리새-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/PearToucan_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '페어_큰부리새_Light'; /* 페어 큰부리새-Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/페어_큰부리새_Light.woff2') format('woff2');
+    font-family: 'PearToucan_Light'; /* 페어 큰부리새-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/PearToucan_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '페어_큰부리새_Regular'; /* 페어 큰부리새-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/페어_큰부리새_Regular.woff2') format('woff2');
+    font-family: 'PearToucan_Regular'; /* 페어 큰부리새-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/PearToucan_Regular.woff2') format('woff2');
 }
 
 @font-face {
