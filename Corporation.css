@@ -4420,3 +4420,9 @@
     font-family: 'GFC_Red_Spirit_Medium'; /* 경남FC_투혼경남체-Medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/KNFC/GFC_Red_Spirit_Medium.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Griun_Songyang'; /* 그리운 송양-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Songyang.woff2') format('woff2');
+}
+
