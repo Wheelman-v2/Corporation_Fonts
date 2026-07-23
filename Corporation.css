@@ -4426,3 +4426,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Songyang.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_Dolce'; /* 그리운 돌체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Dolce.woff2') format('woff2');
+}
+
