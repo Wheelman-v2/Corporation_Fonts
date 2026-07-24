@@ -4431,3 +4431,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Dolce.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_KimTang'; /* 그리운 김탕체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_KimTang.woff2') format('woff2');
+}
+
