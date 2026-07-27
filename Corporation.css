@@ -4441,3 +4441,9 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_DukSoon.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_Popcorn'; /* 그리운 팝콘체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Popcorn.woff2') format('woff2');
+}
+
+
