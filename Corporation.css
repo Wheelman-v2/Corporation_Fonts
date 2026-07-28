@@ -4446,4 +4446,22 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Popcorn.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_BaengE'; /* 그리운 뱅이-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_BaengE.woff2') format('woff2');
+}
 
+@font-face {
+    font-family: 'Griun_YaongEomma_Font'; /* 그리운 야옹이엄마 손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_YaongEomma_Font.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Perfume_1'; /* 그리운 향기체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Perfume_1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Perfume_2'; /* 그리운 향수체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Perfume_2.woff2') format('woff2');
+}
