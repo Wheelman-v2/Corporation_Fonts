@@ -4466,3 +4466,13 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Myoamri_Kicheori.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Distort_Bold'; /* 뒤틀림-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/Distort_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Distort_Medium'; /* 뒤틀림-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/Distort_Medium.woff2') format('woff2');
+}
+
