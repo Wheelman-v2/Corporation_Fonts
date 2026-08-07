@@ -4476,3 +4476,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/Distort_Medium.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_MIGA_Handwriting'; /* 그리운 미가 손글씨-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_MIGA_Handwriting.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Sejong_Baragi_KimChaeeun'; /* 그리운 세종대왕바라기 김채은-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Sejong_Baragi_KimChaeeun.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Griun_Haje_Font'; /* 그리운 하제체-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Haje_Font.woff2') format('woff2');
+}
+
