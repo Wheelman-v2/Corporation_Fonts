@@ -4491,3 +4491,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Haje_Font.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Stellar_Serif_Bold'; /* 스텔라체_Bold_Condensed */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Stellar/Stellar_Serif_Bold.woff2') format('woff2');
+}
+
