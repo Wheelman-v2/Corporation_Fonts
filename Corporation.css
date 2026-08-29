@@ -4496,3 +4496,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Stellar/Stellar_Serif_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'NalSun-Regular'; /* 날선체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/NalSun-Regular.woff2') format('woff2');
+}
+
