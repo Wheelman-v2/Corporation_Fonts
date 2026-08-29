@@ -4501,3 +4501,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/NalSun-Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'jjomsaengi_Regular'; /* 쫌생이체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/jjomsaengi_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Seocho_Dotum'; /* 서초돋움 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CaseDock/Seocho_Dotum.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Seocho_Batang'; /* 서초바탕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CaseDock/Seocho_Batang.woff2') format('woff2');
+}
+
