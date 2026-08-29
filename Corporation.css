@@ -4516,3 +4516,33 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CaseDock/Seocho_Batang.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'iscu_1_Thin'; /* 서울사이버대학체T */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/iscu/iscu_1_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'iscu_2_Ultra-light'; /* 서울사이버대학체UL */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/iscu/iscu_2_Ultra-light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'iscu_3_Light'; /* 서울사이버대학체L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/iscu/iscu_3_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'iscu_4_Medium'; /* 서울사이버대학체M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/iscu/iscu_4_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'iscu_5_Bold'; /* 서울사이버대학체B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/iscu/iscu_5_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'iscu_6_Extra_Bold'; /* 서울사이버대학체EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/iscu/iscu_6_Extra_Bold.woff2') format('woff2');
+}
+
