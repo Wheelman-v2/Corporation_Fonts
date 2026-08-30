@@ -4546,3 +4546,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/iscu/iscu_6_Extra_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'MihwakinBihaengJeopsiChe_Regular'; /* 미확인_비행접시체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/MihwakinBihaengJeopsiChe_Regular.woff2') format('woff2');
+}
+
