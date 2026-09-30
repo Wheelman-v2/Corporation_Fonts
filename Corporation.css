@@ -4556,3 +4556,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Alla_Hyuna.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Griun_Sobokhee'; /* 그리운 소복희-Rg */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Sobokhee.woff2') format('woff2');
+}
+
