@@ -4561,3 +4561,32 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Griun/Griun_Sobokhee.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Bithumb_Gothic'; /* 빗썸고딕 Basic */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/bithumb/Bithumb_Gothic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bithumb_Gothic_1'; /* 빗썸고딕 Original */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/bithumb/Bithumb_Gothic_1.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GS_HYEJAROUN_TTF_Bold'; /* GS혜자로운-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/GS25/GS_HYEJAROUN_TTF_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HS_Hyosung_Bold'; /* HS 효성-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HS_HYOSUNG/HS_Hyosung_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HS_Hyosung_Light'; /* HS 효성-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HS_HYOSUNG/HS_Hyosung_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'HS_Hyosung_Medium'; /* HS 효성-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HS_HYOSUNG/HS_Hyosung_Medium.woff2') format('woff2');
+}
