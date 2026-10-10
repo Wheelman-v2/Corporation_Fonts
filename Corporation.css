@@ -4590,3 +4590,8 @@
     font-family: 'HS_Hyosung_Medium'; /* HS 효성-Medium */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/HS_HYOSUNG/HS_Hyosung_Medium.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'KcalliAutumnGothic'; /* Kcalli가을기록고딕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kcalli/KcalliAutumnGothic.woff2') format('woff2');
+}
