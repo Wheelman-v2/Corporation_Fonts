@@ -4595,3 +4595,38 @@
     font-family: 'KcalliAutumnGothic'; /* Kcalli가을기록고딕 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Kcalli/KcalliAutumnGothic.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Chai_Hwaljjak_Bold'; /* 차이 활짝체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CHAI/Chai_Hwaljjak_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chai_Hwaljjak_Heavy'; /* 차이 활짝체-Heavy */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CHAI/Chai_Hwaljjak_Heavy.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chai_Hwaljjak_Medium'; /* 차이 활짝체-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CHAI/Chai_Hwaljjak_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chai_Hwaljjak_Regular'; /* 차이 활짝체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CHAI/Chai_Hwaljjak_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Rising_CHAI_Extra_Bold'; /* 차이 상승체_Extra_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CHAI/Rising_CHAI_Extra_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Rising_CHAI_Light'; /* 차이 상승체_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/CHAI/Rising_CHAI_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sungeum_Regular'; /* 순금체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sungeum_Media/Sungeum_Regular.woff2') format('woff2');
+}
