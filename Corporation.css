@@ -4630,3 +4630,9 @@
     font-family: 'Sungeum_Regular'; /* 순금체-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/Sungeum_Media/Sungeum_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Deo_Uahan_Serif'; /* 더 우아한 세리프 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts/THISISPEARWAY/Deo_Uahan_Serif.woff2') format('woff2');
+}
+
