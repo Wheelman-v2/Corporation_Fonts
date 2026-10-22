@@ -5538,3 +5538,9 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'King_Sejong_Award_2026_Seoyeon'; /* 세종대왕상 2026 서연 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/KingSejongAward/King_Sejong_Award_2026_Seoyeon.woff2') format('woff2');
+    font-display: swap;
+}
+
