@@ -5544,3 +5544,27 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Hakgyoansim_Deongdeongi'; /* 학교안심 덩덩이 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/Hakgyoansim/Hakgyoansim_Deongdeongi.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Bamhaneul'; /* 학교안심 밤하늘 세로쓰기 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/Hakgyoansim/Hakgyoansim_Bamhaneul.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Bamhaneul_1'; /* 학교안심 밤하늘 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/Hakgyoansim/Hakgyoansim_Bamhaneul_1.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hakgyoansim_Edge'; /* 학교안심 엣지 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/Hakgyoansim/Hakgyoansim_Edge.woff2') format('woff2');
+    font-display: swap;
+}
+
