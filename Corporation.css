@@ -5568,3 +5568,69 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'REATIC_Bold'; /* 리틱체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Light'; /* 리틱체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Light.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Narrow'; /* 리틱체-Narrow */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Narrow.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Narrow_Bold'; /* 리틱체-NarrowBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Narrow_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Narrow_Light'; /* 리틱체-NarrowLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Narrow_Light.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Regular'; /* 리틱체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Wide'; /* 리틱체-Wide */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Wide.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Wide_Bold'; /* 리틱체-WideBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Wide_Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'REATIC_Wide_Light'; /* 리틱체-WideLight */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/REATIC/REATIC_Wide_Light.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BSM_Smile_Lasik_Regular'; /* 밝은성모 스마일라식체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/BSM/BSM_Smile_Lasik_Regular.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BSM_Vision_Correction_Regular'; /* 밝은성모 시력교정체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/BSM/BSM_Vision_Correction_Regular.woff2') format('woff2');
+    font-display: swap;
+}
+
