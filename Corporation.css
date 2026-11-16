@@ -5634,3 +5634,8 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'BeyondVillage_Regular'; /* 비욘드빌리지체-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Corporation_Fonts@main/BeyondVillage/BeyondVillage_Regular.woff2') format('woff2');
+    font-display: swap;
+}
